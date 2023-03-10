@@ -1,0 +1,19 @@
+{
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk",
+      "command": "latexmk",
+      "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-outdir=%DIR%/out/",
+        "%DOC%"
+      ],
+      "env": {}
+    }
+  ],
+  "latex-workshop.latex.outDir": "%DIR%/out/",
+  "latex-workshop.latex.clean.subfolder.enabled": true  // https://github.com/James-Yu/LaTeX-Workshop/wiki/Compile#latex-workshoplatexcleansubfolderenabled, only deletes recursively when .tex file in question is active
+}

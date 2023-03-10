@@ -3,4 +3,3 @@ Engineering handbook detailing all the engineering principles I learnt from ESC1
 
 ## File management
 - `rough/` contains markdown drafts of written stuff
-- `final/` contains the individual `.tex` files to be compiled into a PDF
