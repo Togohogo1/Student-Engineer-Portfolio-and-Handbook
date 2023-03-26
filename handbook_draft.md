@@ -55,8 +55,19 @@ I was surprised to learn that one of the most valuable takeaways from my enginee
 
 ## Design Experiences
 
+## Questions
+- Can we split Praxis I and II into 2 parts - alpha & design report, beta & showcase
+- Must the design experiences be one slide only [1], means I will only have a minimum of 3 slides if super restrictive [2], am I allowed to elaborate further down after a 1 paged summary [3] or does this elaboration happen during the handbook part [4]
+- Assume the most restrictive, then wouldn't the "Porfolio" be more a personal statement? seems disporportionate
+
 # Part II: The Handbook
 
-> among us \
->  sfdjfklsdfsd
-
+## Introduction
+### Definitions?
+## Framing
+## Diverging
+## Converging
+## Representing
+## Questions
+- Do we need evidence for every tool that we use
+- Would a single diverging tool like Lotus Blossom count as a single TMF out of the 20 max
