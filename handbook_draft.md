@@ -71,3 +71,4 @@ I was surprised to learn that one of the most valuable takeaways from my enginee
 ## Questions
 - Do we need evidence for every tool that we use
 - Would a single diverging tool like Lotus Blossom count as a single TMF out of the 20 max
+- Is DFX a TMF
