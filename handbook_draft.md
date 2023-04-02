@@ -49,6 +49,7 @@
 It is importnat several areas of bias I am subjected to including influence from this assignment and also influence from my values:
 1. (handbook bias) This handbook is worth marks. I understand that project constraints will limit exactly what should be put in this handbook.
     - I'm desining this handbook as "one place for all" where I can refer to in the future, so I have to make is as comprehensive as possible either way. If I am able to do that, then the marks will come naturally.
+    - I want this to be easily navigatable and intuitive for my future self.
 
 ### Areas for Improvement
 I was surprised to learn that one of the most valuable takeaways from my engineering design experience was what I learnt about myself. Part of these experiences was learning what my weaknesses were and my plans to account for them in the future.
