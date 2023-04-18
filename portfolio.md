@@ -278,7 +278,12 @@ One of the most valuable takeaways from my engineering design experience was wha
 ---
 ---
 \
-e
+Although not included below, I would like to acknowledge that this assignment itself can also b e considered as a product of engineering design through continuous planning and iterating, due to its nature.
+
+The following design experiences are listed in order of commencement. They attempt to showcase my [abilities](#abilities-ꜛ) and [strengths](#strengths-ꜛ) to achieve an innovative final design or functional work-in-progress I would be proud to show off.
+
+
+
 
 ### Praxis I Design Report [ꜛ](#table-of-contents)
 
