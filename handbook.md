@@ -1,8 +1,25 @@
 ---
 layout: page
-title: Newpage
-permalink: /newpage/
+title: The Handbook
+permalink: /handbook/
 ---
+
+why
+
+REEEE
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference.
+<sup>bruh moment</sup>
+o
+
+<span style="color:blue">some *blue* text</span>.
+
+
+<mark >Highlighted text</mark>o
+
+<h3>amogus</h3>
 
 # centroid-tracker
 Tracks the centroid of an object over time

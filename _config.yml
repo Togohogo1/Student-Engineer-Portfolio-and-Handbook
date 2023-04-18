@@ -18,22 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: ESC102 PRAXIS II
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A complete overview of my engineering design experience as a first-year Engineering Science student, detailing engineering identity, practice, strategy, communication, tools, and applications.
 baseurl: "/Student-Engineer-Portfolio-and-Handbook" # the subpath of your site, e.g. /blog
 url: "https://togohogo1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jekyll
-author: John Smith
-email: "john.smith@foobar.com"
+github_username: Togohogo1
+author: Kevin (Zerui) Wang
+email: "kevinzerui.wang@mail.utoronto.ca"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - portfolio.md
+  - handbook.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
