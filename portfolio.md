@@ -57,6 +57,49 @@ Also referred to as "positionality", Position in Context is defined as:
 ### Values [ꜛ](#table-of-contents)
 As part of my original Position Statement, an assignment that asks engineering students to comment on their positionality, I mentioned the following:
 
+<table>
+    <!-- <tr>
+    <th>Person 1</th>
+    <th>Person 2</th>
+    <th>Person 3</th>
+    </tr> -->
+    <tr>
+        <td>
+            I used the word <b>"methodology"</b> to summarize my work
+        </td>
+        <td>
+            I prefer to:
+                <ul>
+                <li>Order steps in an outline</li>
+                <li>Be pedantic about certainby before moving ahead</li>
+                <li>Know exactly where to find what I need</li>
+                </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            I tend to think more <b>mathematically</b> and <b>abstractly</b>
+        </td>
+        <td>
+            <ul>
+            <li>I prefer to perform mathematical calculations and derivations</li>
+            <li>I like to tinker with electronics, code, and CAD software</li>
+            <li>I do acknowledge that abstract thinking is sometimes necessary</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+|-------------	|-----------	|
+| I used the word "methodology" to summarize my work philosophy	| I prefer to <br> - bruh <br> - bruh	|
+| Upper       	| arm       	|
+| Forearm     	| 0.4300    	|
+| Hand        	| 0.5060    	|
+| Trunk       	| 0.4383    	|
+| Thigh       	| 0.4330    	|
+| Lower leg   	| 0.4330    	|
+| Foot        	| 0.4290    	|
+
 
 ### Abilities [ꜛ](#table-of-contents)
 
