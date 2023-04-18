@@ -90,8 +90,15 @@ For student engineers, the goal of the Perry Model is to show the possibility of
 
 <sup><b>Figure 1.</b>Adaptation of the visual representation of the Perry Model taken from <a href="">[1]</a></sup>
 
-#### Introduction
-ayo????
+#### Dualism to Multiplicity
+First: [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
+- The acceptance that there is only right and wrong (represented by black and white)
+- Authority figures hold the answers where one accepts as true
+
+Then:
+- Nuances do exist, not everything is certain
+- Can be frustrating at times if accustomed to dual thinking
+- Multiple interpretations start to create puzzlement
 
 #### Introduction
 ayo????
@@ -103,3 +110,5 @@ ayo????
 ---
 \
 [1] `file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2001%20[slides]%20(2).pdf`
+
+[2] https://uthsc.edu/tlc/intellectual-ethical-development.php
