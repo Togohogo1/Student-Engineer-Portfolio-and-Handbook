@@ -15,6 +15,7 @@ permalink: /handbook/
 - [The Perry Model of Intellectual and Ethical Development](#the-perry-model-of-intellectual-and-ethical-development-ꜛ)
 - [Perceive Interpret Assess Act (PIAA)](#perceive-interpret-assess-act-piaa-ꜛ)
 - [Toulmin's Structure of Argument](#toulmins-structure-of-argument-ꜛ)
+- [The CRAAP Test](#the-craap-test-ꜛ)
 
 [References](#references)
 
@@ -77,9 +78,7 @@ This section contains various TMFs that sets up the prior knowledge that is usef
 
 ### The Perry Model of Intellectual and Ethical Development [ꜛ](#table-of-contents)
 ---
-<br>
-
-#### Introduction
+\
 The Perry Model is a representation of attitudes one can experience when embarking on an engineering journey. To gain a better understanding, consider the following terms:
 1. **A**uthority: Emphasis on the capital **A**, relates to making decisions based on consultations with someone knowledgeable.
 2. **a**uthority: Emphasis on the lowercase **a**, relates to the recognition that one can make their own decisions with the facility of a higher **A**uthority.
@@ -120,9 +119,7 @@ The Perry Model is not physically used, but rather a thought process that helps 
 
 ### Perceive Interpret Assess Act (PIAA) [ꜛ](#table-of-contents)
 ---
-<br>
-
-#### Introduction
+\
 The PIAA model is a way of thinking that allows one to reflect on their perceptions to reduce the likelihood of making an impulse decision.
 
 ![Perceive Interpret Assess Act](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/piaa.png)
@@ -144,16 +141,14 @@ Anywhere. Engineering is full of instances where decisions need to be made. The 
 
 ### Toulmin's Structure of Argument [ꜛ](#table-of-contents)
 ---
-<br>
-
-#### Introduction
+\
 This tool allows one to craft structurally sound arguments. It makes sure arguments are backed up by sufficient evidence and are as irrefutable as possible.
 
 ![Toulmin's Structure of Argument](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/toulmin.png)
 
 <sup><b>Figure 3.</b> Visual representation adaptation if Toulmin's Structure of Argument taken from <a href="">[6]</a></sup>
 
-#### Components [[6]]()
+#### Components [[5]]()
 Commonly, Toulmin's model includes:
 <table>
     <tr>
@@ -195,6 +190,65 @@ Interpretive claims and speculative claims may also be helpful in ideal generati
 
 #### When to Use
 Toulmin's model should be used every time one has to make a claim, like the PIAA model, is a frequent occurence in engineering.
+
+### The CRAAP test [ꜛ](#table-of-contents)
+---
+\
+The CRAAP test is used to evalute the credibility of secondary research. That is, research not conducted through testing, modelling, and experimentation.
+
+#### Components
+CRAAP is an acronym, which makes the test easy to memory and apply:
+<table>
+    <tr>
+        <td><b>C</b>urrency</td>
+        <td>
+            <ul>
+            <li>The timeliness of the information</li>
+            <li>Pay attention to publish date and last update date</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>R</b>elevance</td>
+        <td>
+            <ul>
+            <li>How applicable is the information to the purpose?</li>
+            <li>Consider the target audience</li>
+            <li>Consider the level its written for</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>A</b>uthority</td>
+        <td>
+            <ul>
+            <li>Who created/contributed to creating the source?</li>
+            <li>What organizations are they affiliated with?</li>
+            <li>(Websites) Can the domain be trusted?</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>A</b>ccuracy</td>
+        <td>
+            <ul>
+            <li>Question where the information comes from</li>
+            <li>Is the information backed up by evidence?</li>
+            <li>How rigorous are the verification protocols?</li>
+            <li>Has the source been peer reviewed?</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>P</b>urpose</td>
+        <td>
+            <ul>
+            <li>Question why this information exists</li>
+            <li>Pay attention to language for any prejudice, emotions, or bias</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 ## References [ꜛ](#table-of-contents)
 ---
