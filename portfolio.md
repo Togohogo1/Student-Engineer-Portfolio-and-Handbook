@@ -30,10 +30,10 @@ The purpose of the Design Portfolio is to present the following:
 - Consider personal and external biases
 - Highlight my design projects in a visually appealing manner and relate them back to my position in context
 
-
-
 ## Engineering, Design, and Engineering Design [ꜛ](#table-of-contents)
+Loosely defined, engineering is "the application of science to the optimum conversion of the resources of nature to the uses of humankind" [[1]](https://www.britannica.com/technology/engineering). Based on my experiences, I think engineering is a lot more nuanced.
 
+![imig](../assets/portfolio/big-pig-grin.jpg)
 
 
 ## Position in Context and My Design Process [ꜛ](#table-of-contents)
@@ -58,3 +58,4 @@ The purpose of the Design Portfolio is to present the following:
 ### Praxis II Showcase [ꜛ](#table-of-contents)
 
 ## References [ꜛ](#table-of-contents)
+[1] https://www.britannica.com/technology/engineering
