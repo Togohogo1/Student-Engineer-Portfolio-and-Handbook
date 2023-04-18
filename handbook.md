@@ -8,7 +8,11 @@ permalink: /handbook/
 ---
 \
 [What to Expect](#what-to-expect-ꜛ)
-- [Definitions](#definitions-ꜛ)
+
+[Definitions](#definitions-ꜛ)
+
+[Foundational Concepts](#foundational-concepts-ꜛ)
+- [The Perry Model of Intellectual and Ethical Development](#the-perry-model-of-intellectual-and-ethical-development-ꜛ)
 
 ## What to Expect [ꜛ](#table-of-contents)
 ---
@@ -18,7 +22,7 @@ This handbook contains over 15 tools, models, and frameworks (TMFs) that I have 
 
 The following TMFs will be listed in a somewhat logical order to use them, each accompanied by a sufficient description and usage examples.
 
-### Definitions [ꜛ](#table-of-contents)
+## Definitions [ꜛ](#table-of-contents)
 ---
 \
 As a reminder to myself and also for the sake of being concise, I will define certain terms I reference multiple times in this Handbook.
@@ -60,3 +64,27 @@ As a reminder to myself and also for the sake of being concise, I will define ce
         <td>The culminating oral evaluation of Praxis II where we show our term-long design work addressing the opportunity regarding the UMC RFP.</td>
     </tr>
 </table>
+
+## Foundational Concepts [ꜛ](#table-of-contents)
+---
+---
+\
+This section contains various TMFs that sets up the prior knowledge that is useful for Framing, Diverging, Converging, and Representing (FDCR). The next sections give a more detailed breakdown of FDCR but for now, it suffices to know that it is a way to model engineering design that naturally repeats itself.
+
+### The Perry Model of Intellectual and Ethical Development [ꜛ](#table-of-contents)
+---
+<br>
+
+#### Introduction
+The Perry Model is a representation of attitudes one can experience when embarking on an engineering journey. To gain a better understanding, consider the following terms:
+1. **A**uthority: Emphasis on the capital **A**, relates to making decisions based on consultations with someone knowledgeable.
+2. **a**uthority: Emphasis on the lowercase **a**, relates to the recognition that one can make their own decisions with the facility of a higher **A**uthority.
+
+For student engineers, the goal of the Perry Model is to show the possibility of transitioning from Authority to authority.
+
+#### Introduction
+ayo????
+#### Introduction
+ayo????
+#### Introduction
+ayo????
