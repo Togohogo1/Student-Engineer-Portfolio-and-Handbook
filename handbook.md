@@ -186,10 +186,15 @@ And sometimes also:
 </table>
 
 #### Claims in More Detail
-Claims come in a wide spectrum.
+Claims come in a wide spectrum, only three types are useful for discussion:
+1. **Analytical claims**: Claims that sit closest to the ground, requires the least amount of evidence and justification
+2. **Interpretive claims**: Claims that sit a bit further from the ground
+3. **Speculative claims**: Claims that require a lot of evidence and justification, but not a completely bogus claim.
+
+Interpretive claims and speculative claims may also be helpful in ideal generation.
 
 #### When to Use
-
+Toulmin's model should be used every time one has to make a claim, like the PIAA model, is a frequent occurence in engineering.
 
 ## References [ꜛ](#table-of-contents)
 ---
