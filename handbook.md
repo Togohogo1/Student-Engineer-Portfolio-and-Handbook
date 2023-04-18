@@ -82,7 +82,9 @@ The Perry Model is a representation of attitudes one can experience when embarki
 
 For student engineers, the goal of the Perry Model is to show the possibility of transitioning from Authority to authority.
 
-<sup>Adaptation of the visual </sup>
+![Perry Model](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/Aa.png)
+
+<sup>Adaptation of the visual representation of the Perry Model taken from <a href="">[1]</a></sup>
 
 #### Introduction
 ayo????
@@ -90,3 +92,9 @@ ayo????
 ayo????
 #### Introduction
 ayo????
+
+## References
+---
+---
+\
+[1] `file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2001%20[slides]%20(2).pdf`
