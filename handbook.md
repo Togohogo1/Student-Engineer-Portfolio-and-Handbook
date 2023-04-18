@@ -125,16 +125,16 @@ The Perry Model is not physically used, but rather a thought process that helps 
 #### Introduction
 The PIAA model is a way of thinking that allows one to reflect on their perceptions to reduce the likelihood of making an impulse decision.
 
-![Perceive Interpret Assess Act](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/toulmin.png)
+![Perceive Interpret Assess Act](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/piaa.png)
 
-<sup><b>Figure 2.</b>Toulmin's Structure of Argument visualization taken from <a href="">[4]</a>. No modifications were required for me to better understand it.</sup>
+<sup><b>Figure 2.</b> Visual representation adaptation of the PIAA model taken from <a href="">[4]</a></sup>
 
 #### Components
 There are 4 components of the PIAA model:
-1. Perceive: Comes from the five senses
-2. Interpret: Process the multisensory information and reflect on the meaning
-3. Assess: Choose a meaning that best suits the situation and gives a desireable outcome for the perceiver
-4. Act: Not taken on impulse, but after careful consideration
+1. **Perceive**: Comes from the five senses
+2. **Interpret**: Process the multisensory information and reflect on the meaning
+3. **Assess**: Choose a meaning that best suits the situation and gives a desireable outcome for the perceiver
+4. **Act**: Not taken on impulse, but after careful consideration
 
 #### My Experiences
 PIAA is used during Praxis II stakeholder interactions. For the TTL RFP, my team needed to find an engineering opportunity. We also wanted to avoid being disrespectful or sound dismissive to stakeholders when asking questions after making observation.
@@ -149,9 +149,44 @@ Anywhere. Engineering is full of instances where decisions need to be made. The 
 #### Introduction
 This tool allows one to craft structurally sound arguments. It makes sure arguments are backed up by sufficient evidence and are as irrefutable as possible.
 
-#### Components
+![Toulmin's Structure of Argument](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/toulmin.png)
+
+<sup><b>Figure 3.</b> Visual representation adaptation if Toulmin's Structure of Argument taken from <a href="">[6]</a></sup>
+
+#### Components [[6]]()
+Commonly, Toulmin's model includes:
+<table>
+    <tr>
+        <td><b>Ground</b></td>
+        <td>An observation to base the claim on, resting on data or facts.</td>
+    </tr>
+    <tr>
+        <td><b>Claim</b></td>
+        <td>An interpretation made with respect to the ground that one wants another to believe. There are different types of claims (outlines in next subsection).</td>
+    </tr>
+    <tr>
+        <td><b>Justification</b></td>
+        <td>A coherent and logical explanation to back up the claim.</td>
+    </tr>
+    <tr>
+        <td><b>Evidence</b></td>
+        <td>Supports for the claim backed up by factual data.</td>
+    </tr>
+    <tr>
+        <td><b>Qualifier</b></td>
+        <td>Constrains the argument to a limit of certainty.</td>
+    </tr>
+</table>
+And sometimes also:
+<table>
+    <tr>
+        <td><b>Counterclaim</b></td>
+        <td>Refutations against the claim that can sometimes explose its weaknesses. This is why a qualifier is important.</td>
+    </tr>
+</table>
 
 #### Claims in More Detail
+Claims come in a wide spectrum.
 
 #### When to Use
 
@@ -168,4 +203,6 @@ This tool allows one to craft structurally sound arguments. It makes sure argume
 
 [4] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2003%20actual%20[slides]%20(4).pdf
 
-[5] https://ecp.engineering.utoronto.ca/news/writing-in-engineering-a-brief-guide/
+[5] `toulmin file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2003%20actual%20[slides]%20(4).pdf`
+
+[6] https://ecp.engineering.utoronto.ca/news/writing-in-engineering-a-brief-guide/
