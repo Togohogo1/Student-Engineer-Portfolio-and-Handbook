@@ -78,13 +78,40 @@ As part of my original Position Statement, an assignment that asks engineering s
     </tr>
     <tr>
         <td>
-            I tend to think more <b>mathematically</b> and <b>abstractly</b>
+            I tended to think more <b>mathematically</b> and <b>abstractly</b>
         </td>
         <td>
             <ul>
             <li>I prefer to perform mathematical calculations and derivations</li>
             <li>I like to tinker with electronics, code, and CAD software</li>
             <li>I do acknowledge that abstract thinking is sometimes necessary</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            I believed that the <b>social aspects</b> of engineering are just as important as the scientific aspects
+        </td>
+        <td>
+            Communication between parties is crucial to circulate ideas and feedback
+        </td>
+    </tr>
+    <tr>
+        <td>
+            I emphasized the importance of a <b>hands-on approach</b>
+        </td>
+        <td>
+            I believe the best way to learn and bring an idea to life is to physically design it
+        </td>
+    </tr>
+    <tr>
+        <td>
+            I supported the idea of <b>continuous drafting</b> and <b>iterating</b>
+        </td>
+        <td>
+            <ul>
+            <li>It is not possible to reach perfection but perfectly possible to approach perfection</li>
+            <li>Perfection is not approachable in one step</li>
             </ul>
         </td>
     </tr>
