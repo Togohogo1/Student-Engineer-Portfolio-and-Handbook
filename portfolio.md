@@ -51,8 +51,12 @@ Having finished Praxis II, the work I have done conforms well to my definition o
 I chose to start my Design Portfolio with this section because it serves as a basis for everything that follows, given that "engineering design" is mentioned a lot. Additionally, this section indirectly offers my values and perspectives. The next section does exactly that, but in a direct appraoch.
 
 ## Position in Context and My Design Process [ꜛ](#table-of-contents)
+Also referred to as "positionality", Position in Context is defined as:
+- Engagement in engineering design with respect to how I interpret the world around me, and how these interpreations shape my beliefs. [[2]]()
 
 ### Values [ꜛ](#table-of-contents)
+As part of my original Position Statement, an assignment that asks engineering students to comment on their positionality, I mentioned the following:
+
 
 ### Abilities [ꜛ](#table-of-contents)
 
@@ -73,3 +77,5 @@ I chose to start my Design Portfolio with this section because it serves as a ba
 
 ## References [ꜛ](#table-of-contents)
 [1] https://www.britannica.com/technology/engineering
+
+[2] my position statement
