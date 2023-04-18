@@ -186,9 +186,45 @@ This section focuses more on the technological aspects of my skill set, more com
 ### Strengths [ꜛ](#table-of-contents)
 ---
 \
-ayo
+I defined a "strength" to capture the behaviourl aspects of my skill set, more commonly known as "soft skills".
+<table>
+    <tr>
+        <th>Strength</th>
+        <th>Details</th>
+    </tr>
+    <tr>
+        <td>Adaptability</td>
+        <td>I know that I am stronger in some areas than others, but I realized through Praxis II I could take on any task from engineering writing to verbal communication. I became more confident in my well-roundedness.</td>
+    </tr>
+    <tr>
+        <td>Drive</td>
+        <td>I have high standards for myself and I am willing to put in the effort to achieve those standards. I like to push myself to see what I am capable of. I promised myself to make the most out of my Praxis II experience.</td>
+    </tr>
+    <tr>
+        <td>Attention to Detail</td>
+        <td>I emphasize the importance of following a consistent format from document headings to folder structures. I expect form, order, and function with my designs. Every small detail counts. </td>
+    </tr>
+    <tr>
+        <td>Leadership</td>
+        <td>I was slightly uncertain with this one because I never considered myself a natural leader. However, Praxis II taught me that when necessary, I aim to facilitate the direction of group discussions, define deadlines to keep the team ahead of schedule, and keep team members accountable</td>
+    </tr>
+</table>
 
 ### Biases [ꜛ](#table-of-contents)
+---
+\
+While writing the Design Portfolio and the Handbook, I identified two major sources of bias that should be acknowledged:
+<table>
+    <tr>
+        <th>Bias</th>
+        <th>Type</th>
+        <th>Prevention</th>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr></tr>
+</table>
 
 ### Areas for Improvement [ꜛ](#table-of-contents)
 
