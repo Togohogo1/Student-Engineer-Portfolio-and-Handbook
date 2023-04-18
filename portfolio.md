@@ -235,7 +235,44 @@ While writing the Design Portfolio and the Handbook, I identified two major sour
 </table>
 
 ### Areas for Improvement [ꜛ](#table-of-contents)
+---
+\
+One of the most valuable takeaways from my engineering design experience was what I learnt about myself. Part of self-discovery is identifying my weaknesses and thinking about ways to improve upon them in the future.
 
+<table>
+    <tr>
+        <th>Shortcoming</th>
+        <th>Plan to Alleviate</th>
+    </tr>
+    <tr>
+        <td>
+        I sometimes find it <b>difficult to articulate my ideas</b> and findings. Quoting a Praxis I teammate:
+        <blockquote>
+        "The explanations that you would give for certain standards sometimes confused me. This occasionally made it harder to understand the purpose of those standards and their applications."
+        </blockquote>
+        I noticed puzzlement in my Praxis II teammates as well.
+        </td>
+        <td>
+        I think it comes down to practice. Explaining difficult concept is a skill that can be improved over time. I also tend to get excited when I find something that is useful. I found by slowing down, the thoughts that come out of my mouth become more coherent.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            I sometimes get <b>too caught up in my goals</b>. When my standards are different than others, I tend to get frustrated when they cannot perform at a level that may be realistic to me but unrealistic to them.
+        </td>
+        <td>
+            I need to establish a time block to communicate with these team members until we reach a common ground that we can both agree on meeting. I will attempt to set the common ground as close to my expectations as possible.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            I tend to <b>hold back when discussing team dynamics</b> with teammates. I hesitate when communicating my feelings and concerns with the team because I think revealing any dissatisfaction will decrease the team's psychological safety.
+        </td>
+        <td>
+            Alleviating this is difficult because it involves a change in mindset. I have to be patient and constantly remind myself that most people respect it when others open up because opening up itself is difficult to do.
+        </td>
+    </tr>
+</table>
 
 ## Design Experiences [ꜛ](#table-of-contents)
 ---
