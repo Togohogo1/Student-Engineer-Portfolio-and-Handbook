@@ -221,9 +221,17 @@ While writing the Design Portfolio and the Handbook, I identified two major sour
         <th>Prevention</th>
     </tr>
     <tr>
-        <td></td>
+        <td>This assignment is worth marks</td>
+        <td>External</td>
+        <td>
+            Instead of completing this purely for marks, I must try to make it as intuitive as possible for ease of future reference. A comprehensive handbook makes for a good handbook.
+        </td>
     </tr>
-    <tr></tr>
+    <tr>
+        <td>Definitions of certain terms may be warped by my positinality</td>
+        <td>Internal</td>
+        <td>I try to be explicit with all engineering related definitions. Additionally, citations will be provided to offer a more objective take on definitions as necessary.</td>
+    </tr>
 </table>
 
 ### Areas for Improvement [ꜛ](#table-of-contents)
