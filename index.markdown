@@ -4,3 +4,9 @@
 
 layout: home
 ---
+REEEE
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference.
+<sup>bruh moment</sup>
