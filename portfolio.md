@@ -160,7 +160,8 @@ Once in a while, it is worth it to take a risk, prepare for the worst, and hope 
 ### Abilities [ꜛ](#table-of-contents)
 ---
 \
-This section focuses more on the technological aspects of my skill set, more commonly known as "hard skills".
+This section focuses more on the technological aspects of my skill set, more commonly known as "hard skills". Images of these skills can be found in [Design Experiences](#design-experiences-ꜛ):
+
 <table>
 
 </table>
