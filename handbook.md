@@ -14,6 +14,10 @@ permalink: /handbook/
 [Foundational Concepts](#foundational-concepts-ꜛ)
 - [The Perry Model of Intellectual and Ethical Development](#the-perry-model-of-intellectual-and-ethical-development-ꜛ)
 
+\
+
+[References](#references)
+
 ## What to Expect [ꜛ](#table-of-contents)
 ---
 ---
@@ -84,16 +88,17 @@ For student engineers, the goal of the Perry Model is to show the possibility of
 
 ![Perry Model](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/Aa.png)
 
-<sup>Adaptation of the visual representation of the Perry Model taken from <a href="">[1]</a></sup>
+<sup><b>Figure 1.</b>Adaptation of the visual representation of the Perry Model taken from <a href="">[1]</a></sup>
+
+#### Introduction
+ayo????
 
 #### Introduction
 ayo????
 #### Introduction
 ayo????
-#### Introduction
-ayo????
 
-## References
+## References [ꜛ](#table-of-contents)
 ---
 ---
 \
