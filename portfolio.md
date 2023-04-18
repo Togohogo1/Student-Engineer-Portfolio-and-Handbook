@@ -33,7 +33,7 @@ The purpose of the Design Portfolio is to present the following:
 ## Engineering, Design, and Engineering Design [ꜛ](#table-of-contents)
 Loosely defined, engineering is "the application of science to the optimum conversion of the resources of nature to the uses of humankind" [[1]](https://www.britannica.com/technology/engineering). Based on my experiences, I think engineering is a lot more nuanced.
 
-<!-- ![imig](../assets/portfolio/eng_des_engdes.png) -->
+![imig](../assets/portfolio/big-pig-grin.jpg)
 
 <sup>Figure caption</sup>
 
