@@ -51,6 +51,12 @@ As a reminder to myself and also for the sake of being concise, I will define ce
         </ul>
         </td>
     </tr>
-    <tr></tr>
-    <tr></tr>
+    <tr>
+        <td>Beta Release (<b>Beta</b>)</td>
+        <td>The Praxis II version of Alpha Release with higher expectations and an emphasis on verification and validation.</td>
+    </tr>
+    <tr>
+        <td><b>Showcase</b></td>
+        <td>The culminating oral evaluation of Praxis II where we show our term-long design work addressing the opportunity regarding the UMC RFP.</td>
+    </tr>
 </table>
