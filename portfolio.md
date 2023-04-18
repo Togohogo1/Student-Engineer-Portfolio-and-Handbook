@@ -23,6 +23,12 @@ permalink: /portfolio/
 [References](#references-ꜛ)
 
 ## What to Expect [ꜛ](#table-of-contents)
+The purpose of the Design Portfolio is to present the following:
+- Introduce my interpretations and beliefs of "Engineering", "Design", and "Engineering Design"
+- Explain how my position in context as a student engineer changed over the course of Praxis II
+- Evaluate my strengths and weaknesses as part of my position in context
+- Consider personal and external biases
+- Highlight my design projects in a visually appealing manner and relate them back to my position in context
 
 
 
