@@ -4,6 +4,8 @@ title: The Design Portfolio
 permalink: /portfolio/
 ---
 ## Table of Contents
+---
+\
 [What to Expect](#what-to-expect-ꜛ)
 
 [Engineering, Design, and Engineering Design](#engineering-design-and-engineering-design-ꜛ)
@@ -23,6 +25,8 @@ permalink: /portfolio/
 [References](#references-ꜛ)
 
 ## What to Expect [ꜛ](#table-of-contents)
+---
+\
 The purpose of the Design Portfolio is to present the following:
 - Introduce my interpretations and beliefs of "Engineering", "Design", and "Engineering Design"
 - Explain how my position in context as a student engineer changed over the course of Praxis II
@@ -31,6 +35,8 @@ The purpose of the Design Portfolio is to present the following:
 - Highlight my design projects in a visually appealing manner and relate them back to my position in context
 
 ## Engineering, Design, and Engineering Design [ꜛ](#table-of-contents)
+---
+\
 Loosely defined, engineering is "the application of science to the optimum conversion of the resources of nature to the uses of humankind" [[1]](https://www.britannica.com/technology/engineering). Based on my experiences, I think engineering is a lot more nuanced.
 
 ![imig](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/eng_des_engdes.png)
@@ -51,10 +57,14 @@ Having finished Praxis II, the work I have done conforms well to my definition o
 I chose to start my Design Portfolio with this section because it serves as a basis for everything that follows, given that "engineering design" is mentioned a lot. Additionally, this section indirectly offers my values and perspectives. The next section does exactly that, but in a direct appraoch.
 
 ## Position in Context and My Design Process [ꜛ](#table-of-contents)
+---
+\
 Also referred to as "positionality", Position in Context is defined as:
 - Engagement in engineering design with respect to how I interpret the world around me, and how these interpreations shape my beliefs. [[2]]()
 
 ### Values [ꜛ](#table-of-contents)
+---
+\
 As part of my original Position Statement, an assignment that asks engineering students to comment on their positionality, I mentioned the following:
 
 <table>
@@ -144,8 +154,17 @@ Once in a while, it is worth it to take a risk, prepare for the worst, and hope 
 
 
 ### Abilities [ꜛ](#table-of-contents)
+---
+\
+This section focuses more on the technological aspects of my skill set, more commonly known as "hard skills".
+<table>
+
+</table>
 
 ### Strengths [ꜛ](#table-of-contents)
+---
+\
+ayo
 
 ### Biases [ꜛ](#table-of-contents)
 
