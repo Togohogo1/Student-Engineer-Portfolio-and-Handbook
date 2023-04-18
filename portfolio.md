@@ -45,8 +45,10 @@ Im the image above, I formulated some new definitions:
     2. Follows some process or framework
     3. Follows underlying theory / principles / standards / research
 
+Having finished Praxis II, the work I have done conforms well to my definition of engineering design with a small modification given more stakeholder interaction opportunities.
+- 3\. Follows underlying  theory / principles / standards / research / **human preference**
 
-
+I chose to start my Design Portfolio with this section because it serves as a basis for everything that follows, given that "engineering design" is mentioned a lot. Additionally, this section indirectly offers my values and perspectives. The next section does exactly that, but in a direct appraoch.
 
 ## Position in Context and My Design Process [ꜛ](#table-of-contents)
 
