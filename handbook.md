@@ -14,6 +14,7 @@ permalink: /handbook/
 [Foundational Concepts](#foundational-concepts-ꜛ)
 - [The Perry Model of Intellectual and Ethical Development](#the-perry-model-of-intellectual-and-ethical-development-ꜛ)
 - [Perceive Interpret Assess Act (PIAA)](#perceive-interpret-assess-act-piaa-ꜛ)
+- [Toulmin's Structure of Argument](#toulmins-structure-of-argument-ꜛ)
 
 [References](#references)
 
@@ -87,7 +88,7 @@ For student engineers, the goal of the Perry Model is to show the possibility of
 
 ![Perry Model](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/Aa.png)
 
-<sup><b>Figure 1.</b> Adaptation of the visual representation of the Perry Model taken from <a href="">[1]</a></sup>
+<sup><b>Figure 1.</b>Visual representation adaptation of the Perry Model taken from <a href="">[1]</a></sup>
 
 #### Dualism to Multiplicity [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
 First:
@@ -117,15 +118,16 @@ The Perry Model stood out to me during a RFP rescoping session. I was too relian
 #### When to Use
 The Perry Model is not physically used, but rather a thought process that helps guide engineering thinking to realize the complexities of the world and the self.
 
-### Perceive Interpret Assess Act (PIAA)  [ꜛ](#table-of-contents)
+### Perceive Interpret Assess Act (PIAA) [ꜛ](#table-of-contents)
 ---
 <br>
+
 #### Introduction
 The PIAA model is a way of thinking that allows one to reflect on their perceptions to reduce the likelihood of making an impulse decision.
 
-![Perceive Interpret Assess Act](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/piaa.png)
+![Perceive Interpret Assess Act](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/toulmin.png)
 
-<sup><b>Figure 2.</b> Visual representation adaptation of the  PIAA model taken from <a href="">[3]</a></sup>
+<sup><b>Figure 2.</b>Toulmin's Structure of Argument visualization taken from <a href="">[4]</a>. No modifications were required for me to better understand it.</sup>
 
 #### Components
 There are 4 components of the PIAA model:
@@ -140,6 +142,20 @@ PIAA is used during Praxis II stakeholder interactions. For the TTL RFP, my team
 #### When to Use
 Anywhere. Engineering is full of instances where decisions need to be made. The goal is to make informed decisions rather than impulse decisions.
 
+### Toulmin's Structure of Argument [ꜛ](#table-of-contents)
+---
+<br>
+
+#### Introduction
+This tool allows one to craft structurally sound arguments. It makes sure arguments are backed up by sufficient evidence and are as irrefutable as possible.
+
+#### Components
+
+#### Claims in More Detail
+
+#### When to Use
+
+
 ## References [ꜛ](#table-of-contents)
 ---
 ---
@@ -149,3 +165,7 @@ Anywhere. Engineering is full of instances where decisions need to be made. The 
 [2] https://uthsc.edu/tlc/intellectual-ethical-development.php
 
 [3] `file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2013%20[slides]%20(1).pdf`
+
+[4] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2003%20actual%20[slides]%20(4).pdf
+
+[5] https://ecp.engineering.utoronto.ca/news/writing-in-engineering-a-brief-guide/
