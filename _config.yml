@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ESC102 PRAXIS II
+title: ESC102 Praxis II
 description: >- # this means to ignore newlines until "baseurl:"
-  A complete overview of my engineering design experience as a first-year Engineering Science student, detailing engineering identity, practice, strategy, communication, tools, and applications.
+  A complete overview of my engineering design experience as a first-year Engineering Science student, detailing engineering identity, practice, strategy, communication, tools, applications, and more.
 baseurl: "/Student-Engineer-Portfolio-and-Handbook" # the subpath of your site, e.g. /blog
 url: "https://togohogo1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Togohogo1
