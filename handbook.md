@@ -3,54 +3,54 @@ layout: page
 title: The Handbook
 permalink: /handbook/
 ---
+## Table of Contents
+---
+---
+\
+[What to Expect](#what-to-expect-ꜛ)
+- [Definitions](#definitions-ꜛ)
 
-why
+## What to Expect [ꜛ](#table-of-contents)
+---
+---
+\
+This handbook contains over 15 tools, models, and frameworks (TMFs) that I have used. Consequently, these tools are selected based on my positionality and most of them have proven to work, and will likely continue reinforcing my engineering journey ahead.
 
-REEEE
+The following TMFs will be listed in a somewhat logical order to use them, each accompanied by a sufficient description and usage examples.
 
-Here is a simple footnote[^1]. With some additional text after it.
-
-[^1]: My reference.
-<sup>bruh moment</sup>
-o
-
-<span style="color:blue">some *blue* text</span>.
-
-
-<mark >Highlighted text</mark>o
-
-<h3>amogus</h3>
-
-# centroid-tracker
-Tracks the centroid of an object over time
-
-### Conda
-```
-conda create --name
-conda activate centtr
-conda install numpy
-conda install matplotlib
-conda install opencv-python
-conda install ipykernel
-```
-
-### Openpose
-- use OpenPose v1.6.0
-- download the models by running the batch file
-- Most code taken from: https://learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/ and https://github.com/spmallick/learnopencv/blob/master/OpenPose/OpenPoseImage.py
-- add folder `./models` contains the following files: https://github.com/CMU-Perceptual-Computing-Lab/openpose/tree/master/models
-- different output formats: https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_02_output.html#pose-output-format-body_25
-
-### For Center of Gravity:
-- https://www.sportsbiomech.com/Books/Human%20Body%20Dynamics%20-%20classical%20mechanics%20and%20human%20movement.pdf, page 20 (Chrome PDF viewer)
-> The biggest part of the human body is
-the trunk; comprising on the average 43% of total body weight. Head and
-neck account for 7% and upper limbs 13% of the human body by weight.
-The thighs, lower legs, and feet constitute the remaining 37% of the total
-body weight
-
-### Misc
-- Image reading code taken from: https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
-
-### Todo
-- Rename to center of gravity tracker
+### Definitions [ꜛ](#table-of-contents)
+---
+\
+As a reminder to myself and also for the sake of being concise, I will define certain terms I reference multiple times in this Handbook.
+<table>
+    <tr>
+        <td>
+        Alpha Release (<b>Alpha</b>)
+        </td>
+        <td>
+        A team communication and discussion assessment where course instructors assess an intermediate step of the final Design Report for Praxis I.
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <b>Design Report</b>
+        </td>
+        <td>
+        A document that frames an engineering opportunity within the University and recommends a solution. Our design report focused on improving the desk-charis in Sandford Fleming, which an emphasis on left-handed users. Done as part of Praxis I
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Request for Proposal (<b>RFP</b>)
+        </td>
+        <td>
+        A document that offers engineering services and frames an engineering opportunity to be solved. The two RFPs we worked on include:
+        <ul>
+            <li><b>TTL RFP</b>: An RFP for the <a href="https://www.torontotoollibrary.com/">Toronto Tool Library</a> (TTL), written by my Praxis II team to improve the productivity of TTL's tool check-in and check-out system.</li>
+            <li><b>UMC RFP</b>: An RFP for the <a href="https://www.umcontario.com/">Ukrainian Museum of Canada</a> (UMC), written by another Praxis II team to address the need for in-gallery textile storage. We were assigned to work on this RFP for Showcase.</li>
+        </ul>
+        </td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+</table>
