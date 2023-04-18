@@ -68,12 +68,11 @@ As part of my original Position Statement, an assignment that asks engineering s
             I used the word <b>"methodology"</b> to summarize my work
         </td>
         <td>
-            I prefer to:
-                <ul>
-                <li>Order steps in an outline</li>
-                <li>Be pedantic about certainby before moving ahead</li>
-                <li>Know exactly where to find what I need</li>
-                </ul>
+            <ul>
+            <li>I prefer to order steps in an outline</li>
+            <li>I like to be pedantic about certainby before moving ahead</li>
+            <li>I want to Know exactly where to find what I need</li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -93,7 +92,11 @@ As part of my original Position Statement, an assignment that asks engineering s
             I believed that the <b>social aspects</b> of engineering are just as important as the scientific aspects
         </td>
         <td>
+            <ul>
+            <li>
             Communication between parties is crucial to circulate ideas and feedback
+            </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -101,7 +104,11 @@ As part of my original Position Statement, an assignment that asks engineering s
             I emphasized the importance of a <b>hands-on approach</b>
         </td>
         <td>
+            <ul>
+            <li>
             I believe the best way to learn and bring an idea to life is to physically design it
+            </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -117,15 +124,23 @@ As part of my original Position Statement, an assignment that asks engineering s
     </tr>
 </table>
 
-|-------------	|-----------	|
-| I used the word "methodology" to summarize my work philosophy	| I prefer to <br> - bruh <br> - bruh	|
-| Upper       	| arm       	|
-| Forearm     	| 0.4300    	|
-| Hand        	| 0.5060    	|
-| Trunk       	| 0.4383    	|
-| Thigh       	| 0.4330    	|
-| Lower leg   	| 0.4330    	|
-| Foot        	| 0.4290    	|
+I came into Praxis II with these values, so it is inevitable that I would conform to them at the beginning. In fact, most activities in Praxis II reinforced these values, such as working on tech components of prototyping to verification with stakeholders.
+
+However, there is one major change - to be more open about flexibility. Sometimes I need to let go of certain things and be a bit impulsive with what is currently available. Ultimately, there is no tradeoff between spending more time than necessary and getting minimal return on investment, but to know if I crossed that limit is hard to determine.
+
+Once in a while, it is worth it to take a risk, prepare for the worst, and hope for the best. I have learned that not everything in Praxis II was as certain as Praxis I (like finding a community for the Community Profile assignment), and this is something I will have to accept moving forward as an aspiring engineer. With that in mind:
+<table>
+    <tr>
+        <td><b>Not</b> everything in engineering design will be <b>certain</b></td>
+        <td>
+            <ul>
+            <li>
+            It is fully in my power to try to mitigate these uncertainties
+            </li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 
 ### Abilities [ꜛ](#table-of-contents)
