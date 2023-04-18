@@ -33,9 +33,19 @@ The purpose of the Design Portfolio is to present the following:
 ## Engineering, Design, and Engineering Design [ꜛ](#table-of-contents)
 Loosely defined, engineering is "the application of science to the optimum conversion of the resources of nature to the uses of humankind" [[1]](https://www.britannica.com/technology/engineering). Based on my experiences, I think engineering is a lot more nuanced.
 
-![imig](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/big-pig-grin.jpg)
+![imig](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/eng_des_engdes.png)
 
-<sup>Figure caption</sup>
+<sup><i>Figure 1.</i> Engineering, Design, and Engineering Design group discussion activity from one of the first Praxis II studios </sup>
+
+Im the image above, I formulated some new definitions:
+- **Engineering**: Applied scientific theory, principles, and research with societal considerations
+- **Design**: Manifestation of ideas
+- **Engineering Design**, having the following properties:
+    1. Intent for design to serve a purpose
+    2. Follows some process or framework
+    3. Follows underlying theory / principles / standards / research
+
+
 
 
 ## Position in Context and My Design Process [ꜛ](#table-of-contents)
