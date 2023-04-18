@@ -13,8 +13,7 @@ permalink: /handbook/
 
 [Foundational Concepts](#foundational-concepts-ꜛ)
 - [The Perry Model of Intellectual and Ethical Development](#the-perry-model-of-intellectual-and-ethical-development-ꜛ)
-
-\
+- [Perceive Interpret Assess Act (PIAA)](#perceive-interpret-assess-act-piaa-ꜛ)
 
 [References](#references)
 
@@ -118,7 +117,7 @@ The Perry Model stood out to me during a RFP rescoping session. I was too relian
 #### When to Use
 The Perry Model is not physically used, but rather a thought process that helps guide engineering thinking to realize the complexities of the world and the self.
 
-### Perceive Interpret Assess Act (PIAA)
+### Perceive Interpret Assess Act (PIAA)  [ꜛ](#table-of-contents)
 ---
 <br>
 #### Introduction
@@ -127,6 +126,19 @@ The PIAA model is a way of thinking that allows one to reflect on their percepti
 ![Perceive Interpret Assess Act](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/piaa.png)
 
 <sup><b>Figure 2.</b> Visual representation adaptation of the  PIAA model taken from <a href="">[3]</a></sup>
+
+#### Components
+There are 4 components of the PIAA model:
+1. Perceive: Comes from the five senses
+2. Interpret: Process the multisensory information and reflect on the meaning
+3. Assess: Choose a meaning that best suits the situation and gives a desireable outcome for the perceiver
+4. Act: Not taken on impulse, but after careful consideration
+
+#### My Experiences
+PIAA is used during Praxis II stakeholder interactions. For the TTL RFP, my team needed to find an engineering opportunity. We also wanted to avoid being disrespectful or sound dismissive to stakeholders when asking questions after making observation.
+
+#### When to Use
+Anywhere. Engineering is full of instances where decisions need to be made. The goal is to make informed decisions rather than impulse decisions.
 
 ## References [ꜛ](#table-of-contents)
 ---
