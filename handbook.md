@@ -88,10 +88,10 @@ For student engineers, the goal of the Perry Model is to show the possibility of
 
 ![Perry Model](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/Aa.png)
 
-<sup><b>Figure 1.</b>Adaptation of the visual representation of the Perry Model taken from <a href="">[1]</a></sup>
+<sup><b>Figure 1.</b> Adaptation of the visual representation of the Perry Model taken from <a href="">[1]</a></sup>
 
-#### Dualism to Multiplicity
-First: [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
+#### Dualism to Multiplicity [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
+First:
 - The acceptance that there is only right and wrong (represented by black and white)
 - Authority figures hold the answers where one accepts as true
 
@@ -100,10 +100,30 @@ Then:
 - Can be frustrating at times if accustomed to dual thinking
 - Multiple interpretations start to create puzzlement
 
-#### Introduction
-ayo????
-#### Introduction
-ayo????
+#### Relativism to Commitmtnet [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
+After:
+- Recognition of multiple perspectives, answers, approaches
+- Authority figures do not always have the right answer
+- Learn how to back up one's interpretation with evidence
+
+Finally:
+- Learn how to make one's own informed decisions
+- Recognize free choice becomes available
+- One validates other perspectives (represented by colours)
+- Accepts the uncertainties of the world
+
+#### Personal Experience
+The Perry Model stood out to me during a RFP rescoping session. I was too reliant on the input of a stakeholder, putting them in a position of **A**uthority. A course instructor reminded me about my role as a student engineer, and I had the choice to make an informed engineering decision, giving me the **a**uthority to move forward with my planned rescoping.
+
+#### When to Use
+The Perry Model is not physically used, but rather a thought process that helps guide engineering thinking to realize the complexities of the world and the self.
+
+### Perceive Interpret Assess Act (PIAA)
+---
+\
+THe PIAA model is a way of thinking that allows one to reflect on their perceptions to reduce the likelihood of making an impulse decision.
+
+<sup><b>Figure 2.</b> Visual representation adaptation of the  PIAA model taken from <a href="">[3]</a></sup>
 
 ## References [ꜛ](#table-of-contents)
 ---
@@ -112,3 +132,5 @@ ayo????
 [1] `file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2001%20[slides]%20(2).pdf`
 
 [2] https://uthsc.edu/tlc/intellectual-ethical-development.php
+
+[3] `file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2013%20[slides]%20(1).pdf`
