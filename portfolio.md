@@ -163,7 +163,24 @@ Once in a while, it is worth it to take a risk, prepare for the worst, and hope 
 This section focuses more on the technological aspects of my skill set, more commonly known as "hard skills". Images of these skills can be found in [Design Experiences](#design-experiences-ꜛ):
 
 <table>
-
+    <tr>
+        <th>Skill</th>
+        <th>Details</th>
+    </tr>
+        <td>Programming</td>
+        <td>I am fluent in Python, having worked with various data-science related libraries for clubs and personal projects. I applied my programming intuition for the CIV102 bridge and used my OpenCV skills for Praxis II</td>
+    <tr>
+        <td>Computer Aided Design (CAD)</td>
+        <td>Having CADed for Praxis I and the CIV102 bridge, I was easily able to apply and elevate these skills in Praxis II with more advanced CAD models</td>
+    </tr>
+    <tr>
+        <td>Building/Crafting</td>
+        <td>With an artistic background, I believe I have a knack for physical design. The quality of my builds are reflected through their appearances</td>
+    </tr>
+    <tr>
+        <td>Research</td>
+        <td>I did not know how much I enjoyed doing research prior to September 2022. I consistently found appropriate standards, handbooks, journal articles for requirements and proxy tests</td>
+    </tr>
 </table>
 
 ### Strengths [ꜛ](#table-of-contents)
