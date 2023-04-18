@@ -120,8 +120,11 @@ The Perry Model is not physically used, but rather a thought process that helps 
 
 ### Perceive Interpret Assess Act (PIAA)
 ---
-\
-THe PIAA model is a way of thinking that allows one to reflect on their perceptions to reduce the likelihood of making an impulse decision.
+<br>
+#### Introduction
+The PIAA model is a way of thinking that allows one to reflect on their perceptions to reduce the likelihood of making an impulse decision.
+
+![Perceive Interpret Assess Act](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/piaa.png)
 
 <sup><b>Figure 2.</b> Visual representation adaptation of the  PIAA model taken from <a href="">[3]</a></sup>
 
