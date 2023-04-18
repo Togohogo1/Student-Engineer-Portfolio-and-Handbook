@@ -42,7 +42,7 @@ The purpose of the Design Portfolio is to present the following:
 \
 Loosely defined, engineering is "the application of science to the optimum conversion of the resources of nature to the uses of humankind" [[1]](https://www.britannica.com/technology/engineering). Based on my experiences, I think engineering is a lot more nuanced.
 
-![imig](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/eng_des_engdes.png)
+![Engineering, Design, and Engineering Design](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/eng_des_engdes.png)
 
 <sup><i>Figure 1.</i> Engineering, Design, and Engineering Design group discussion activity from one of the first Praxis II studios </sup>
 
@@ -282,14 +282,21 @@ Although not included below, I would like to acknowledge that this assignment it
 
 The following design experiences are listed in order of commencement. They attempt to showcase my [abilities](#abilities-ꜛ) and [strengths](#strengths-ꜛ) to achieve an innovative final design or functional work-in-progress I would be proud to show off.
 
-
-
-
 ### Praxis I Design Report [ꜛ](#table-of-contents)
+---
+\
+bruh
 
 ### CIV102 Matboard Bridge Design Project [ꜛ](#table-of-contents)
+---
+\
+![CIV102 Onepager](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/civ_onepager.png)
+<sup><i>Figure 3.</i> Summary of my CIV102 matboard bridge design project. If the image is too blurry or small, a [PDF](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/civ_onepager.pdf) is available. Relevant bridge project files can be found [here](https://github.com/Togohogo1/civ102-matboard-bridge-design-project). </sup>
 
 ### Praxis II Showcase [ꜛ](#table-of-contents)
+---
+\
+bruh
 
 ## References [ꜛ](#table-of-contents)
 ---
