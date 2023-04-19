@@ -34,7 +34,7 @@ permalink: /handbook/
 - [Conceptual Design](#conceptual-design-ꜛ)
 - [Embodiment Design](#embodiment-design-ꜛ)
 - [Scale Prototype](#scale-prototype-ꜛ)
-- [Graphical Prototype (3D Modelling)](#graphical-prototype-3d-modelling-ꜛ)
+- [Graphical Prototype (CAD)](#graphical-prototype-cad-ꜛ)
 
 [Verification](#verification-ꜛ)
 - [Proxy Testing](#proxy-testing-ꜛ)
