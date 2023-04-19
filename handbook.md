@@ -327,6 +327,35 @@ The Requirements Model consits of various requirement strings (sometimes shorten
 - **Criteria**: Defines the relationships between measurements. [[6]]() Qualifies the viability of a design within acceptable constraints.
 
 #### Examples
+The following examples of requirements are taken from the TTL RFP:
+
+![TTL Usability Requirement 1](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/ttl_req_1.png)
+
+<sub><i>Figure 6.</i> Requirement taken from <a href="https://www.umcontario.com/about">[9]</a>. The high-level objective is usability.</sub>
+
+7.2.3 contains the detailed objective, the metric, constraint, then criteria. Here are some key observations:
+- "Should" is used in the constraint because of the tolerance in the constraint.
+- The metric is quantifiable
+- A justification is usually provided to explain why a requirement is important for the stakeholders.
+
+Here is another requirement:
+
+![TTL Usability Requirement 2](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/ttl_req_2.png)
+
+<sub><i>Figure 6.</i> Requirement taken from <a href="https://www.umcontario.com/about">[9]</a></sub>
+
+And some observations and conclusions:
+- A requirement does not need a constraint when appropriate. In this case, finding the upper bound for cost was not a feasible task given our resources, but we intuitively knew that the criteria is "the less the better".
+- It is possible that a criteria might be missing as well (usually when the metric is a yes/no)
+- Objectives can have multiple metrics, which may influence number of criteria and constriants.
+
+#### Visual Representation
+A graphical format helps better visualize how requirements are connected with each other, stakeholders, etc:
+
+![UMC Requirements](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/umc_req_pic.png)
+
+<sub><i>Figure 6.</i> Graphical requirements taken from <a href="https://www.umcontario.com/about">[10]</a>. Our team commonly referenced it from time to time leading up to showcase.</sub>
+
 
 ## References [ꜛ](#table-of-contents)
 ---
@@ -347,3 +376,7 @@ The Requirements Model consits of various requirement strings (sometimes shorten
 [7] https://library.csuchico.edu/sites/default/files/craap-test.pdf
 
 [8] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2005%20[slides].pdf
+
+[9] TTL RFP
+
+[10] UMC RFP
