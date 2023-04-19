@@ -20,6 +20,25 @@ permalink: /handbook/
 [Framing](#framing-ꜛ)
 - [The Requirements Model](#the-requirements-model-ꜛ)
 
+[Diverging](#diverging-ꜛ)
+- [Classical Brainstorming](#classical-brainstorming-ꜛ)
+- [Brainwriting 6-3-5](#brainwriting-6-3-5-ꜛ)
+- [Lotus Blossom Technique](#lotus-blossom-technique-ꜛ)
+- [Morph Charts & SCAMPER](#morph-charts--scamper-ꜛ)
+
+[Converging](#converging-ꜛ)
+- [Pairwise Comparison Matrix](#pairwise-comparison-matrix-ꜛ)
+- [Pugh Chart and Measurements Matrix](#pugh-chart-and-measurements-matrix-ꜛ)
+
+[Representing](#representing-ꜛ)
+- [Conceptual Design](#conceptual-design-ꜛ)
+- [Embodiment Design](#embodiment-design-ꜛ)
+- [Scale Prototype](#scale-prototype-ꜛ)
+- [Graphical Prototype (3D Modelling)](#graphical-prototype-3d-modelling-ꜛ)
+
+[Verification](#verification-ꜛ)
+- [Proxy Testing](#proxy-testing-ꜛ)
+
 [References](#references)
 
 ## What to Expect [ꜛ](#table-of-contents)
@@ -356,8 +375,53 @@ A graphical format helps better visualize how requirements are connected with ea
 
 <sub><i>Figure 6.</i> Graphical requirements taken from <a href="https://www.umcontario.com/about">[10]</a>. Our team commonly referenced it from time to time leading up to showcase.</sub>
 
+## Diverging [ꜛ](#table-of-contents)
+---
+---
+\
+diverg
 
-## References [ꜛ](#table-of-contents)
+### Classical Brainstorming [ꜛ](#table-of-contents)
+
+### Brainwriting 6-3-5 [ꜛ](#table-of-contents)
+
+### Lotus Blossom Technique [ꜛ](#table-of-contents)
+
+### Morph Charts & SCAMPER [ꜛ](#table-of-contents)
+
+## Converging [ꜛ](#table-of-contents)
+---
+---
+\
+conveg
+
+### Pairwise Comparison Matrix [ꜛ](#table-of-contents)
+
+### Pugh Chart and Measurements Matrix [ꜛ](#table-of-contents)
+
+## Representing [ꜛ](#table-of-contents)
+---
+---
+\
+represt
+
+### Conceptual Design [ꜛ](#table-of-contents)
+
+### Embodiment Design [ꜛ](#table-of-contents)
+
+### Scale Prototype [ꜛ](#table-of-contents)
+
+### Graphical Prototype (3D Modelling) [ꜛ](#table-of-contents)
+
+## Verification [ꜛ](#table-of-contents)
+---
+---
+\
+verifation
+
+### Proxy Testing [ꜛ](#table-of-contents)
+
+## References [ꜛ](#table-of-contents) [ꜛ](#table-of-contents)
 ---
 ---
 \
