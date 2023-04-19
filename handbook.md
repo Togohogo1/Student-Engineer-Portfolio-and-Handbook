@@ -394,10 +394,10 @@ This analogy turns divergence into an optimization problem. If the design space 
 ### Classical Brainstorming [ꜛ](#table-of-contents)
 ---
 \
-Classical brainstorming, or just brainstorming, is a popular diverging tool that most people are familiar with. There is usually no structure or restrictions to what can be during brainstorming.
+Classical brainstorming, or just brainstorming, is a popular diverging tool that most people are familiar with. There is usually no structure or restrictions to what can be during brainstorming. [[12, slide 11]]()
 
 #### Features
-There are a few things to keep in mind however:
+There are a few things to keep in mind however: [[12, slide 11]]()
 1. There should be no criticism for designs, even objectively bad ones.
 2. Quantity over quality. The goal is to generate so many ideas that at least one is a good one.
 3. Pay attention to the ideas of others and try to build off of them.
@@ -411,6 +411,23 @@ There are a few things to keep in mind however:
 I personally found classical brainstorming to be a great starting point. However, its fast pace and unstructured nature may not be the best way to generate more specific ideas. Despite its drawbacks, it was the most effective for my Praxis II team.
 
 ### Brainwriting 6-3-5 [ꜛ](#table-of-contents)
+---
+\
+Brainwriting 6-3-5 is a more structured diverging tool emphasizing sketching instead of discussion, and it works best with a group. It supplements some of the drawbacks of brainstorming, namely uneven participation from group members. The process of executing Brainwriting 6-3-5 is outlined below: [[12, slide 8]]()
+
+#### Features  [[12, slide 8]]()
+1. Agree on a way to scope the opportunity
+2. Prepare a collection of sticky notes or cue cards preferably
+3. Distribute three stick notes to each person
+4. Each person takes 5 minutes to come up with three possible ways of addressing the scoped opportunity with sketches and annotations
+5. Pass the stick notes around the table (every passes to person sitting directly right or left)
+6. THe next person builds on the idea of the current person, adds comments, or introduces new ideas
+7. Repeat steps 5 and 6 until sufficient ideas have been generated
+8. Discuss the ideas
+
+#### My Experience
+
+
 
 ### Lotus Blossom Technique [ꜛ](#table-of-contents)
 
@@ -473,3 +490,5 @@ verifation
 [10] UMC RFP
 
 [11] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2022%20[slides].pdf
+
+[12] file:///C:/Users/kevin/Downloads/27%20Creativity%20Tools%20for%20Divergent%20and%20Convergent%20Thinking%20[uncurated]%20(9).pdf
