@@ -537,6 +537,14 @@ The Pairwise Comparison Matrix is not a rigorous converging tool, but it provide
 There are ways to modify the Pairwise Comparison Matrix by playing around with weights. However it is difficult to quantify how important an objective is compared to another.
 
 ### Pugh Chart and Measurements Matrix [ꜛ](#table-of-contents)
+---
+\
+The Pugh chart is a classical decision-making tool used to select the best concept. The Pugh chart contains an objective component (comparisons via a measurements matrix) and a subjective component (deferring the decision maker for the engineer). [[18]]()
+
+#### Measurements Matrix
+The Pugh chart requires a measurements matrix as its basis for comparison. In a measurements matrix, the rows represent the metrics derived from requirements and the columns represents the design candidates. Each cell contains a value that can be compared relative to others.
+
+
 
 ## Representing [ꜛ](#table-of-contents)
 ---
@@ -597,3 +605,5 @@ verifation
 [16] https://www.researchgate.net/publication/365313393_Metaphors_To_Design_By_Developing_Representations_of_Engineering_Design
 
 [17] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2027%20[slides]%20(1).pdf
+
+[18] S. Pugh, “Concept Selection: A Method that Works,” Proceedings of International Conference on Engineering Design, Heurista, Zürich, 1981, pp. 497-506.
