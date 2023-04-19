@@ -40,7 +40,7 @@ The purpose of the Design Portfolio is to present the following:
 ---
 ---
 \
-Loosely defined, engineering is "the application of science to the optimum conversion of the resources of nature to the uses of humankind" [[1]](https://www.britannica.com/technology/engineering). Based on my experiences, I think engineering is a lot more nuanced.
+Loosely defined, engineering is "the application of science to the optimum conversion of the resources of nature to the uses of humankind" [[1]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/portfolio/#references-%EA%9C%9B). Based on my experiences, I think engineering is a lot more nuanced.
 
 ![Engineering, Design, and Engineering Design](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/eng_des_engdes.png)
 
@@ -64,7 +64,7 @@ I chose to start my Design Portfolio with this section because it serves as a ba
 ---
 \
 Also referred to as "positionality", Position in Context is defined as:
-- Engagement in engineering design with respect to how I interpret the world around me, and how these interpretations shape my beliefs. [[2]]()
+- Engagement in engineering design with respect to how I interpret the world around me, and how these interpretations shape my beliefs. [[2]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/portfolio/#references-%EA%9C%9B)
 
 ### Values [ꜛ](#table-of-contents)
 ---
@@ -303,6 +303,9 @@ bruh
 ---
 ---
 \
-[1] https://www.britannica.com/technology/engineering
+[1]
+J. R. Smith, "engineering", 2022. https://www.britannica.com/technology/engineering (accessed 2023).
+K. Wang, "position_statement_v2." Jan. 2023.
 
-[2] my position statement
+[2]
+K. Wang, "position_statement_v2." Jan. 2023.
