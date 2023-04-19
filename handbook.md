@@ -305,6 +305,8 @@ The beginning of framing is involved with scoping - what one considers when defi
 
 ![Scoping](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/scoping.png)
 
+<sub><i>Figure 5.</i> Representation of scoping showing how two people can look at the same image and come up with different interpretations</sub>
+
 Multiple rounds of
 
 ## References [ꜛ](#table-of-contents)
