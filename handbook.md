@@ -403,8 +403,12 @@ There are a few things to keep in mind however:
 3. Pay attention to the ideas of others and try to build off of them.
 4. Avoid getting too caught up in an idea and spending too much time discussing it in detail.
 
-#### Example
-![Brainstorming]()
+#### Example and Takeaways
+![Brainstorming](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/brainstorming.png)
+
+<sub><i>Figure 10.</i> Classical brainstorming used by my team during 2 sessions: one from before Beta (left) and one after Beta (right)</sub>
+
+I personally found classical brainstorming to be a great starting point. However, its fast pace and unstructured nature may not be the best way to generate more specific ideas. Despite its drawbacks, it was the most effective for my Praxis II team.
 
 ### Brainwriting 6-3-5 [ꜛ](#table-of-contents)
 
