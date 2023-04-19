@@ -39,7 +39,7 @@ permalink: /handbook/
 [Verification](#verification-ꜛ)
 - [Proxy Testing](#proxy-testing-ꜛ)
 
-[References](#references)
+[References](#references-ꜛ)
 
 ## What to Expect [ꜛ](#table-of-contents)
 ---
@@ -110,7 +110,7 @@ For student engineers, the goal of the Perry Model is to show the possibility of
 
 ![Perry Model](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/Aa.png)
 
-<sup><i>Figure 1.</i> Visual representation adaptation of the Perry Model taken from <a href="">[1]</a></sup>
+<sup><i>Figure 1.</i> Visual representation adaptation of the Perry Model taken from <a href="">[1, slide 25]</a></sup>
 
 #### Dualism to Multiplicity [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
 First:
@@ -667,7 +667,8 @@ It is often the case that designing a proxy test and its procedures is an engine
 ## References [ꜛ](#table-of-contents)
 ---
 \
-[1] `file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2001%20[slides]%20(2).pdf`
+[1]
+P. Sheridan, R. Irish, and P. Kinnear, “Welcome to Praxis!,” p. 25, 2022.
 
 [2] https://uthsc.edu/tlc/intellectual-ethical-development.php
 
