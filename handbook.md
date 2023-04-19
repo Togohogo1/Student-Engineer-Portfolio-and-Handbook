@@ -87,7 +87,7 @@ For student engineers, the goal of the Perry Model is to show the possibility of
 
 ![Perry Model](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/Aa.png)
 
-<sup><b>Figure 1.</b>Visual representation adaptation of the Perry Model taken from <a href="">[1]</a></sup>
+<sup><i>Figure 1.</i> Visual representation adaptation of the Perry Model taken from <a href="">[1]</a></sup>
 
 #### Dualism to Multiplicity [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
 First:
@@ -124,7 +124,7 @@ The PIAA model is a way of thinking that allows one to reflect on their percepti
 
 ![Perceive Interpret Assess Act](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/piaa.png)
 
-<sup><b>Figure 2.</b> Visual representation adaptation of the PIAA model taken from <a href="">[4]</a></sup>
+<sup><i>Figure 2.</i> Visual representation adaptation of the PIAA model taken from <a href="">[4]</a></sup>
 
 #### Components
 There are 4 components of the PIAA model:
@@ -146,7 +146,7 @@ This tool allows one to craft structurally sound arguments. It makes sure argume
 
 ![Toulmin's Structure of Argument](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/toulmin.png)
 
-<sup><b>Figure 3.</b> Visual representation adaptation if Toulmin's Structure of Argument taken from <a href="">[6]</a></sup>
+<sup><i>Figure 3.</i> Visual representation adaptation if Toulmin's Structure of Argument taken from <a href="">[6]</a></sup>
 
 #### Components [[5]]()
 Commonly, Toulmin's model includes:
@@ -196,7 +196,7 @@ Toulmin's model should be used every time one has to make a claim, like the PIAA
 \
 The CRAAP test is used to evalute the credibility of secondary research. That is, research not conducted through testing, modelling, and experimentation.
 
-#### Components
+#### Components [[7]](https://library.csuchico.edu/sites/default/files/craap-test.pdf)
 CRAAP is an acronym, which makes the test easy to memory and apply:
 <table>
     <tr>
@@ -250,6 +250,46 @@ CRAAP is an acronym, which makes the test easy to memory and apply:
     </tr>
 </table>
 
+#### Example
+When trying to find research on safe horizontal pushing force limits for Praxis II, I made use of the CRAAP test to evaluate the following source:
+
+![CRAAP Test](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/craap.png)
+
+<sup><i>Figure 4.</i> A source extract from the Handbook of HUman Factors. The source by Weston, Alizadeh, et al. can be found <a href="https://pubmed.ncbi.nlm.nih.gov/29241415/">here</a></sup>
+
+<table>
+    <tr>
+        <td><b>C</b>urrency</td>
+        <td>
+        The 5th edition of this Handbook was published in 2021. The source by Weston, Alizadeh, et al. was published late 2017.
+        </td>
+    </tr>
+    <tr>
+        <td><b>R</b>elevance</td>
+        <td>
+        As I was trying to determine safe horizontal pushing force limits for heavy objects, this was very relevant to my goal.
+        </td>
+    </tr>
+    <tr>
+        <td><b>A</b>uthority</td>
+        <td>
+        The authors both attained PhDs and hold distinguished positions at the University of Central Florida and roles away from academia. Their engineering backgrounds also make them good candidates to trust. Wiley is a renowned publishing company.
+        </td>
+    </tr>
+    <tr>
+        <td><b>A</b>ccuracy</td>
+        <td>
+        The information the authors select is taken from trusted journal articles. The excerpt taken from Weston, Alizadeh, et al. has over 20 citations and is published on the National Center for Biotechnology Information.
+        </td>
+    </tr>
+    <tr>
+        <td><b>P</b>urpose</td>
+        <td>
+        The purpose of the ergonomics handbook is clearly defined, and the extract was relevant to the section I was concerned with (22.7.3).
+        </td>
+    </tr>
+</table>
+
 ## References [ꜛ](#table-of-contents)
 ---
 ---
@@ -265,3 +305,5 @@ CRAAP is an acronym, which makes the test easy to memory and apply:
 [5] `toulmin file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2003%20actual%20[slides]%20(4).pdf`
 
 [6] https://ecp.engineering.utoronto.ca/news/writing-in-engineering-a-brief-guide/
+
+[7] https://library.csuchico.edu/sites/default/files/craap-test.pdf
