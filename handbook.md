@@ -361,7 +361,7 @@ Here is another requirement:
 
 ![TTL Usability Requirement 2](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/ttl_req_2.png)
 
-<sub><i>Figure 6.</i> Requirement taken from <a href="https://www.umcontario.com/about">[9]</a></sub>
+<sub><i>Figure 7.</i> Requirement taken from <a href="https://www.umcontario.com/about">[9]</a></sub>
 
 And some observations and conclusions:
 - A requirement does not need a constraint when appropriate. In this case, finding the upper bound for cost was not a feasible task given our resources, but we intuitively knew that the criteria is "the less the better".
@@ -373,13 +373,16 @@ A graphical format helps better visualize how requirements are connected with ea
 
 ![UMC Requirements](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/umc_req_pic.png)
 
-<sub><i>Figure 6.</i> Graphical requirements taken from <a href="https://www.umcontario.com/about">[10]</a>. Our team commonly referenced it from time to time leading up to showcase.</sub>
+<sub><i>Figure 8.</i> Graphical requirements taken from <a href="https://www.umcontario.com/about">[10]</a>. Our team commonly referenced it from time to time leading up to showcase.</sub>
 
 ## Diverging [ꜛ](#table-of-contents)
 ---
 ---
 \
-diverg
+Put simply, diverging refers to the generation of ideas. How systematic diverging can be depends on the design space and diverging tool.
+
+An important question to ask here is if "constraints limit creativity" [[11]]()
+
 
 ### Classical Brainstorming [ꜛ](#table-of-contents)
 
@@ -444,3 +447,5 @@ verifation
 [9] TTL RFP
 
 [10] UMC RFP
+
+[11] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2022%20[slides].pdf
