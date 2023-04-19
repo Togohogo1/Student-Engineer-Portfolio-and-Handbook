@@ -381,8 +381,13 @@ A graphical format helps better visualize how requirements are connected with ea
 \
 Put simply, diverging refers to the generation of ideas. How systematic diverging can be depends on the design space and diverging tool.
 
-An important question to ask here is if "constraints limit creativity" [[11]]()
+An important question to ask here is if "constraints limit creativity". [[11]](). To answer this question, a useful schematic to look at the notion of a design space is shown below.
 
+![Design Space](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/design_space.png)
+
+<sub><i>Figure 9.</i> Visualization adaptation of design space taken from <a href="https://www.umcontario.com/about">[11, slide 7]</a>. This is my favourite model representation in all of Praxis.</sub>
+
+A scope defines multiple ways to approach an opportunity.
 
 ### Classical Brainstorming [ꜛ](#table-of-contents)
 
