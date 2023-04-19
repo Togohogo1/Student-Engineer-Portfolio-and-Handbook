@@ -430,10 +430,15 @@ Brainwriting 6-3-5 is a more structured diverging tool emphasizing sketching ins
 
 <sub><i>Figure 11.</i> Final result of Brainwriting 6-3-5 during Praxis I diverging phase with my team. Click <a href="https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/brainwriting.png">here</a> for a higher quality image.</sub>
 
-My Praxis I team and I used this tool to come up with various mechanisms for an improvement
+My Praxis I team and I used this tool to come up with various mechanisms for an improvement to the desk-chairs in Sandford Fleming. Everyone built on everybody else's ideas exactly once, leaving 3 add-ons to each initial idea.
 
+#### Takeaways
+Brainwriting 6-3-5 was by far the most effective diverging tool for me. It generated the most ideas in the shorted amount of time, beating classical brainstorming. It was also exciting to see what my team members have been thinking, making this tool slightly more exciting.
 
 ### Lotus Blossom Technique [ꜛ](#table-of-contents)
+---
+\
+lo'us briish
 
 ### Morph Charts & SCAMPER [ꜛ](#table-of-contents)
 
@@ -496,3 +501,5 @@ verifation
 [11] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2022%20[slides].pdf
 
 [12] file:///C:/Users/kevin/Downloads/27%20Creativity%20Tools%20for%20Divergent%20and%20Convergent%20Thinking%20[uncurated]%20(9).pdf
+
+[13] my diverging strand analysis
