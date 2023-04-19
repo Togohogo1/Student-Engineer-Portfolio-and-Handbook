@@ -664,8 +664,7 @@ Users were proxied to a certain extent since we needed people to interact with t
 #### Takeaways
 It is often the case that designing a proxy test and its procedures is an engineering challenge on its own.
 
-## References [ꜛ](#table-of-contents) [ꜛ](#table-of-contents)
----
+## References [ꜛ](#table-of-contents)
 ---
 \
 [1] `file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2001%20[slides]%20(2).pdf`
