@@ -8,3 +8,4 @@ Engineering handbook detailing all the engineering principles I learnt from ESC1
 - If needed, figure out how to not make references wrap properly
 - Think about including the showcase poster and one pager
 - Hyperlink links in bib
+- Read over the whole thing out loud

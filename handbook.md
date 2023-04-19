@@ -110,7 +110,7 @@ For student engineers, the goal of the Perry Model is to show the possibility of
 
 ![Perry Model](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/Aa.png)
 
-<sup><i>Figure 1.</i> Visual representation adaptation of the Perry Model taken from <a href="">[1, slide 25]</a></sup>
+<sup><i>Figure 1.</i> Visual representation adaptation of the Perry Model taken from <a href="https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B">[1, slide 25]</a></sup>
 
 #### Dualism to Multiplicity [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
 First:
