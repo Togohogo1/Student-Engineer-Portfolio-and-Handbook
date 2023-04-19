@@ -47,7 +47,7 @@ permalink: /handbook/
 \
 This handbook contains over 15 tools, models, and frameworks (TMFs) that I have used. Consequently, these tools are selected based on my positionality and most of them have proven to work, and will likely continue reinforcing my engineering journey ahead.
 
-The following TMFs will be listed in a somewhat logical order to use them, each accompanied by a sufficient description and usage examples.
+The following TMFs will be listed in a somewhat logical order to use them, each accompanied by a sufficient description and usage examples. Many TMF diagrams presented in the Praxis slides were redesigned by myself with slight modifications to deepen my understanding of them.
 
 ## Definitions [ꜛ](#table-of-contents)
 ---
