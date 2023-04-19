@@ -257,6 +257,8 @@ When trying to find research on safe horizontal pushing force limits for Praxis 
 
 <sup><i>Figure 4.</i> A source extract from the Handbook of HUman Factors. The source by Weston, Alizadeh, et al. can be found <a href="https://pubmed.ncbi.nlm.nih.gov/29241415/">here</a></sup>
 
+Running it through the CRAAP test shows that it can be trusted.
+
 <table>
     <tr>
         <td><b>C</b>urrency</td>
