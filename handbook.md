@@ -584,7 +584,7 @@ To represent an idea is to display it in a way that shows meaning. Representatio
 ### Conceptual Design [ꜛ](#table-of-contents)
 ---
 \
-Usually taking on the form of sketches or very rough prototypes, conceptual designs are meant to capture a concept. It gives one something to show to others, hopefully to help them understand an idea that might be harder to express otherwise. This is the stage where most design solutions start out. Usually an emphasis is put on a key feature that make it to the next level of design (Embodiment Design, explained shortly)
+Usually taking on the form of sketches or very rough prototypes, conceptual designs are meant to capture a concept. [[19, Slide 24]]() It gives one something to show to others, hopefully to help them understand an idea that might be harder to express otherwise. This is the stage where most design solutions start out. Usually an emphasis is put on a key feature that make it to the next level of design (Embodiment Design, explained shortly)
 
 ![Walkway Sketches](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/walkway_concept.png)
 
@@ -593,6 +593,7 @@ Usually taking on the form of sketches or very rough prototypes, conceptual desi
 Many of the features sketched made it into the final design, like the lifting mechanism, tiling, approximate dimensions, and cut-out slots where wheels can fit. Note that many conceptual designs do not make it to the next stage.
 
 ### Embodiment Design [ꜛ](#table-of-contents)
+An embodiment design aims to prototype a feature such that it does what it's intended to do at a lesser degree, otherwise known as an "unbelievable feature". [[19, Slide 24]]() Embodiment designs are usually backed up by reference designs, guidelines, research, models, and sometimes intuition.
 
 ### Scale Prototype [ꜛ](#table-of-contents)
 
@@ -645,3 +646,5 @@ verifation
 [17] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2027%20[slides]%20(1).pdf
 
 [18] S. Pugh, “Concept Selection: A Method that Works,” Proceedings of International Conference on Engineering Design, Heurista, Zürich, 1981, pp. 497-506.
+
+[19] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2016%20slides%20(1).pdf
