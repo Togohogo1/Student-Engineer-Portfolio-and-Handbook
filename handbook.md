@@ -389,6 +389,8 @@ An important question to ask here is if "constraints limit creativity". [[11]]()
 
 A scope defines multiple ways to approach an opportunity. The size of the smaller box in the opportunity space defines how broad or narrow the scope is. The solution space defines the potential solutions that could solve any possible scoped opportunity in the opportunity space. Finally, the design space is the solutions that may arise from the scoped opportunity. The magnitude of requirement constraints, determined by factors including materials, budge, time, etc. bounds the design space to a certain size.
 
+This analogy turns divergence into an optimization problem. If the design space is too small, no ideas will come out. If it is too large, creative thought is limited. Some divergence tools inherently come with constraints, which may help or hinder finding the sweet spot of creative idea generation. [[11]]()
+
 ### Classical Brainstorming [ꜛ](#table-of-contents)
 
 ### Brainwriting 6-3-5 [ꜛ](#table-of-contents)
