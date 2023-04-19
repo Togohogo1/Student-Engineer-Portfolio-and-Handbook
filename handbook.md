@@ -501,9 +501,21 @@ The more important takeaway from the Morph Chart would be the quality of researc
 ---
 ---
 \
-conveg
+Converging is concerned with the decision-making process - throwing ideas away after a round of divergence through formal and informal techniques. [[16]](https://www.researchgate.net/publication/365313393_Metaphors_To_Design_By_Developing_Representations_of_Engineering_Design)
+
+Since engineering design is iterative, multiple rounds of diverging and converging (and if necessary, framing) can happen multiple times, continually shrinking and expanding the solution pool until a final solution is reached.
+
+The following sections introduces two converging tools that are often used sequentially.
 
 ### Pairwise Comparison Matrix [ꜛ](#table-of-contents)
+This converging tool is quite basic. It allows for every design to be compared against each other.
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+Suppose there are $$ n \ne 0 $$ designs.
+
+```
+```
 
 ### Pugh Chart and Measurements Matrix [ꜛ](#table-of-contents)
 
@@ -562,3 +574,5 @@ verifation
 [14] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2023%20[slides]%20(2).pdf
 
 [15] https://www.theverge.com/circuitbreaker/2017/2/17/14647990/zte-hawkeye-phone-kickstarter-campaign-end
+
+[16] https://www.researchgate.net/publication/365313393_Metaphors_To_Design_By_Developing_Representations_of_Engineering_Design
