@@ -392,6 +392,19 @@ A scope defines multiple ways to approach an opportunity. The size of the smalle
 This analogy turns divergence into an optimization problem. If the design space is too small, no ideas will come out. If it is too large, creative thought is limited. Some divergence tools inherently come with constraints, which may help or hinder finding the sweet spot of creative idea generation. [[11]]()
 
 ### Classical Brainstorming [ꜛ](#table-of-contents)
+---
+\
+Classical brainstorming, or just brainstorming, is a popular diverging tool that most people are familiar with. There is usually no structure or restrictions to what can be during brainstorming.
+
+#### Features
+There are a few things to keep in mind however:
+1. There should be no criticism for designs, even objectively bad ones.
+2. Quantity over quality. The goal is to generate so many ideas that at least one is a good one.
+3. Pay attention to the ideas of others and try to build off of them.
+4. Avoid getting too caught up in an idea and spending too much time discussing it in detail.
+
+#### Example
+![Brainstorming]()
 
 ### Brainwriting 6-3-5 [ꜛ](#table-of-contents)
 
