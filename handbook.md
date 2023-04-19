@@ -444,9 +444,27 @@ The Lotus Blossom Technique works by defining a general central topic. Subtopics
 1. Create a 9 by 9 grid that's big enough to fit ideas in each cell
 2. Write the central theme in the centermost cell
 3. In the cells adjacent to it, generate up to 8 subtopics (they go in cells A to H)
-![Lotus Level 1](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/lotus_lvl1.png)
+
+    ![Lotus Level 1](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/lotus_lvl1.png)
+
 4. Branch out. Put idea A in cell A', B in cell B' ... H in cell H'. These become the new subthemes.
-![Lotus Level 2](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/lotus_lvl2.png)
+
+    ![Lotus Level 2](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/lotus_lvl2.png)
+
+5. For all the cells surrounding A', generate ideas that are related to A'. Do the same for B' all the way to H'.
+6. It is not necessary to fill in the full diagram.
+7. One can go as many levels as needed (but usually 2 is enough).
+8. Discuss findings with the team, if available.
+
+#### Example
+![Praxis I Lotus Blossom](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/lotus_mine.png)
+
+<sub><i>Figure 12.</i> Lotus Blossom done before Alpha for Praxis I. Each group member spent 30 minutes filling as much as they can before reconvening to discuss ideas</sub>
+
+While my Praxis I teammates claimed that the Lotus Blossom was nothing more than a reorganization of ideas (I agree to a certain extent), it lead me to more detailed research for various features that could be implemented in the Sandford Fleming desk-chair.
+
+#### Takeaways
+Lotus Blossom encourages focused, individual diverging. It fully allows for individual values and biases to be conveyed. Unlike Brainwriting 6-3-5 and classical brainstorming. Ideas generated are not influenced by others. Lotus Blossom is not as effective if one tries to fill out all of the cells especially used as a second round diverging tool, due to idea repetition.
 
 ### Morph Charts & SCAMPER [ꜛ](#table-of-contents)
 
