@@ -491,7 +491,7 @@ Which means a systematic way of finding the right combination to best suit the o
 #### Example and Takeaways
 ![Praxis II Morph Chart](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/morph_chart.png)
 
-<sub><i>Figure 12.</i> Morph chart for Praxis II. Boxed approach was the one that lead us towards our final Showcase concept.</sub>
+<sub><i>Figure 13.</i> Morph chart for Praxis II. Boxed approach was the one that lead us towards our final Showcase concept.</sub>
 
 The Morph Chart is incredibly usefl when doing feature divergence. However, mixing and matching to generate a "best of all approaches" concept will not always work. Otherwise its possible to end up like the ZTE Hawkeye [[15]](https://www.theverge.com/circuitbreaker/2017/2/17/14647990/zte-hawkeye-phone-kickstarter-campaign-end) phone.
 
@@ -513,8 +513,28 @@ The following sections introduces two converging tools that are often used seque
 \
 This converging tool is quite basic. It allows for every design to be compared against each other. Suppose there are $$n$$ designs. Then the total comparisons would be $$ \frac{n(n-1)}{2} \approx \frac{n^2}{2}$$. These comparisons are usually made quickly without much evidence to back up how one design is better than another.
 
+#### Procedure
+The procedure for a pairwise comparison matrix is best demonstrated through an example:
+
+![Pariwise Comparison Matrix](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/pairwise.png)
+
+<sub><i>Figure 14.</i> Pairwise comparison matrix used to quickly determine top 3 design solutions for Beta</sub>
+
+The pairwise comparison algorithm goes like this:
 ```
+if row (red) > column (blue):
+    cell = 1
+else:
+    cell = 0
 ```
+Values are added up horizontally at the end. The concept with the largest sum is determined the best.
+
+Note that the pairwise comparison matrix above compares across an objective rather than the design holistically, which is valid way of doing pairwise comparison. [[17, slide 68]]()
+
+#### Takeaways
+The Pairwise Comparison Matrix is not a rigorous converging tool, but it provides a quick way of reaching tentative convergence. One can play around with the pairwise comparison matrix by playing around with weights.
+
+There are ways to modify the Pairwise Comparison Matrix by playing around with weights
 
 ### Pugh Chart and Measurements Matrix [ꜛ](#table-of-contents)
 
@@ -575,3 +595,5 @@ verifation
 [15] https://www.theverge.com/circuitbreaker/2017/2/17/14647990/zte-hawkeye-phone-kickstarter-campaign-end
 
 [16] https://www.researchgate.net/publication/365313393_Metaphors_To_Design_By_Developing_Representations_of_Engineering_Design
+
+[17] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2027%20[slides]%20(1).pdf
