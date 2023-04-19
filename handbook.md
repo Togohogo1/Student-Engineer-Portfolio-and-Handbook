@@ -68,7 +68,7 @@ As a reminder to myself and also for the sake of being concise, I will define ce
         <b>Design Report</b>
         </td>
         <td>
-        A document that frames an engineering opportunity within the University and recommends a solution. Our design report focused on improving the desk-charis in Sandford Fleming, which an emphasis on left-handed users. Done as part of Praxis I
+        A document that frames an engineering opportunity within the University and recommends a solution. Our design report focused on improving the desk-chairs in Sandford Fleming, which an emphasis on left-handed users. Done as part of Praxis I
         </td>
     </tr>
     <tr>
@@ -122,7 +122,7 @@ Then:
 - Can be frustrating at times if accustomed to dual thinking
 - Multiple interpretations start to create puzzlement
 
-#### Relativism to Commitmtnet [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
+#### Relativism to Commitment [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
 After:
 - Recognition of multiple perspectives, answers, approaches
 - Authority figures do not always have the right answer
@@ -199,7 +199,7 @@ And sometimes also:
 <table>
     <tr>
         <td><b>Counterclaim</b></td>
-        <td>Refutations against the claim that can sometimes explose its weaknesses. This is why a qualifier is important.</td>
+        <td>Refutations against the claim that can sometimes expose its weaknesses. This is why a qualifier is important.</td>
     </tr>
 </table>
 
@@ -217,7 +217,7 @@ Toulmin's model should be used every time one has to make a claim, like the PIAA
 ### The CRAAP test [ꜛ](#table-of-contents)
 ---
 \
-The CRAAP test is used to evalute the credibility of secondary research. That is, research not conducted through testing, modelling, and experimentation.
+The CRAAP test is used to evaluate the credibility of secondary research. That is, research not conducted through testing, modelling, and experimentation.
 
 #### Components [[7]](https://library.csuchico.edu/sites/default/files/craap-test.pdf)
 CRAAP is an acronym, which makes the test easy to memory and apply:
@@ -337,7 +337,7 @@ Scoping paves the way for one of the most important TMFs in engineering design -
 In engineering documents where The Requirements Model is needed, requirements define specifications that a solution addressing an engineering opportunity should need.
 
 #### Components
-The Requirements Model consits of various requirement strings (sometimes shortened as requirements) that contain the following: [[8]]()
+The Requirements Model consists of various requirement strings (sometimes shortened as requirements) that contain the following: [[8]]()
 - **Objectives**: To capture the intention of the design by defining something the design should be or do. Objectives can be broken down into high-level and low-level
     - **High-level objectives**: A very general objective that allows more flexibility in what a design should be or do.
     - **Low-level objectives**: Specifies a high-level objective to narrow down on what a design should be or do, preferably in a way such that it can be quantified.
@@ -366,7 +366,7 @@ Here is another requirement:
 And some observations and conclusions:
 - A requirement does not need a constraint when appropriate. In this case, finding the upper bound for cost was not a feasible task given our resources, but we intuitively knew that the criteria is "the less the better".
 - It is possible that a criteria might be missing as well (usually when the metric is a yes/no)
-- Objectives can have multiple metrics, which may influence number of criteria and constriants.
+- Objectives can have multiple metrics, which may influence number of criteria and constraints.
 
 #### Visual Representation
 A graphical format helps better visualize how requirements are connected with each other, stakeholders, etc:
@@ -493,7 +493,7 @@ Which means a systematic way of finding the right combination to best suit the o
 
 <sub><i>Figure 13.</i> Morph chart for Praxis II. Boxed approach was the one that lead us towards our final Showcase concept.</sub>
 
-The Morph Chart is incredibly usefl when doing feature divergence. However, mixing and matching to generate a "best of all approaches" concept will not always work. Otherwise its possible to end up like the ZTE Hawkeye [[15]](https://www.theverge.com/circuitbreaker/2017/2/17/14647990/zte-hawkeye-phone-kickstarter-campaign-end) phone.
+The Morph Chart is incredibly useful when doing feature divergence. However, mixing and matching to generate a "best of all approaches" concept will not always work. Otherwise its possible to end up like the ZTE Hawkeye [[15]](https://www.theverge.com/circuitbreaker/2017/2/17/14647990/zte-hawkeye-phone-kickstarter-campaign-end) phone.
 
 The more important takeaway from the Morph Chart would be the quality of research I enact and how detailed I specify about a concept to learn more about it.
 
@@ -516,7 +516,7 @@ This converging tool is quite basic. It allows for every design to be compared a
 #### Procedure
 The procedure for a pairwise comparison matrix is best demonstrated through an example:
 
-![Pariwise Comparison Matrix](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/pairwise.png)
+![Pairwise Comparison Matrix](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/pairwise.png)
 
 <sub><i>Figure 14.</i> Pairwise comparison matrix used to quickly determine top 3 design solutions for Beta</sub>
 
@@ -553,7 +553,7 @@ As a novice engineer, it is important to use the Pugh chart as intended. As refe
 
 ![Pugh Chart 1](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/pugh_chart_1.png)
 
-<sub><i>Figure 16.</i> One of three Pugh charts used in Praxis II to converget to a final concept for showcase</sub>
+<sub><i>Figure 16.</i> One of three Pugh charts used in Praxis II to converge to a final concept for showcase</sub>
 
 1. From the concepts in the Measurements Matrix, pick a reference and denote this `DATUM` ("Walle in the case above).
 2. Make a relative comparison between the `DATUM` and the other concepts. If the other concept performs better (defined by criteria) put an indication that it's better in the cell using words or symbols. A similar procedure applies when the other concept performs the same or worse.
@@ -563,7 +563,7 @@ As a novice engineer, it is important to use the Pugh chart as intended. As refe
 6. Based on the conclusion of one Pugh chart, pick a new `DATUM` if necessary and repeat steps 1 to 5 until a final recommendation is determined.
 
 #### Interpretation
-Here is a short interpreation of the Pugh chart shown above:
+Here is a short interpretation of the Pugh chart shown above:
 - "Walkway" performs worse than "Walle" in all objectives except for `6.2.1`, but objective `6.2.1` is deemed by team not as important as `6.4.1.1` and `6.4.1.2.`.
 - On a surface level, the "Tree" performs half better and half worse, but `6.5.1` and `6.4.1.2` are important, so we might conclude that "Tree" < "Walle" < Walkway.
 - Next step could be setting the `DATUM` to "Walkway". Doing so, we obtain:
@@ -635,7 +635,7 @@ The nice thing with CAD is when any ideas arise, it can be quickly implemented t
 ---
 ---
 \
-Verification is concerned with testing designs against requirements that have metrics defined and is perforemd far before and up to the development of a final design. It ensures viability of the product and answers the important question: Was the end product realized right? [[20, page 98]](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf)
+Verification is concerned with testing designs against requirements that have metrics defined and is performed far before and up to the development of a final design. It ensures viability of the product and answers the important question: Was the end product realized right? [[20, page 98]](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf)
 
 Test results can be absolute or relative with the former preferred:
 - Absolute: Testing results are checked against a constraint imposed on a requirement
@@ -661,7 +661,7 @@ Sometimes, it is necessary to proxy the stakeholder, which requires one to be de
 
 Users were proxied to a certain extent since we needed people to interact with the system and we should not simulate an elderly volunteer. The bulk of the proxy test was still mechanical, specifically using a pre-trained pose detection model to track body positions and then finding body distribution research to determine the center of mass. The results obtained from this proxy test provided us with valuable data for relative comparisons.
 
-#### <u>Takeaways</u>
+#### Takeaways
 It is often the case that designing a proxy test and its procedures is an engineering challenge on its own.
 
 ## References [ꜛ](#table-of-contents)

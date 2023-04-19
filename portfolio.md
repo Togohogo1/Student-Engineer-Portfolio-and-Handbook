@@ -57,14 +57,14 @@ Im the image above, I formulated some new definitions:
 Having finished Praxis II, the work I have done conforms well to my definition of engineering design with a small modification given more stakeholder interaction opportunities.
 - 3\. Follows underlying  theory / principles / standards / research / **human preference**
 
-I chose to start my Design Portfolio with this section because it serves as a basis for everything that follows, given that "engineering design" is mentioned a lot. Additionally, this section indirectly offers my values and perspectives. The next section does exactly that, but in a direct appraoch.
+I chose to start my Design Portfolio with this section because it serves as a basis for everything that follows, given that "engineering design" is mentioned a lot. Additionally, this section indirectly offers my values and perspectives. The next section does exactly that, but in a direct approach.
 
 ## Position in Context and My Design Process [ꜛ](#table-of-contents)
 ---
 ---
 \
 Also referred to as "positionality", Position in Context is defined as:
-- Engagement in engineering design with respect to how I interpret the world around me, and how these interpreations shape my beliefs. [[2]]()
+- Engagement in engineering design with respect to how I interpret the world around me, and how these interpretations shape my beliefs. [[2]]()
 
 ### Values [ꜛ](#table-of-contents)
 ---
@@ -84,7 +84,7 @@ As part of my original Position Statement, an assignment that asks engineering s
         <td>
             <ul>
             <li>I prefer to order steps in an outline</li>
-            <li>I like to be pedantic about certainby before moving ahead</li>
+            <li>I like to be pedantic about certainty before moving ahead</li>
             <li>I want to Know exactly where to find what I need</li>
             </ul>
         </td>
@@ -186,7 +186,7 @@ This section focuses more on the technological aspects of my skill set, more com
 ### Strengths [ꜛ](#table-of-contents)
 ---
 \
-I defined a "strength" to capture the behaviourl aspects of my skill set, more commonly known as "soft skills".
+I defined a "strength" to capture the behavioral aspects of my skill set, more commonly known as "soft skills".
 <table>
     <tr>
         <th>Strength</th>
