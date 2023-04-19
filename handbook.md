@@ -438,7 +438,15 @@ Brainwriting 6-3-5 was by far the most effective diverging tool for me. It gener
 ### Lotus Blossom Technique [ꜛ](#table-of-contents)
 ---
 \
-lo'us briish
+The Lotus Blossom Technique works by defining a general central topic. Subtopics then "bloom" out of the general topic to become general topics of their own. This diverging tool focuses on bringing out the specifics of a general idea, due to the recursive process of subthemes becoming their own central themes [[13]](). This diverging tool works individually and with a group.
+
+#### How to Use
+1. Create a 9 by 9 grid that's big enough to fit ideas in each cell
+2. Write the central theme in the centermost cell
+3. In the cells adjacent to it, generate up to 8 subtopics (they go in cells A to H)
+![Lotus Level 1](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/lotus_lvl1.png)
+4. Branch out. Put idea A in cell A', B in cell B' ... H in cell H'. These become the new subthemes.
+![Lotus Level 2](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/lotus_lvl2.png)
 
 ### Morph Charts & SCAMPER [ꜛ](#table-of-contents)
 
