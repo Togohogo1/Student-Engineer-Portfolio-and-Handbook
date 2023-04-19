@@ -593,7 +593,11 @@ Usually taking on the form of sketches or very rough prototypes, conceptual desi
 Many of the features sketched made it into the final design, like the lifting mechanism, tiling, approximate dimensions, and cut-out slots where wheels can fit. Note that many conceptual designs do not make it to the next stage.
 
 ### Embodiment Design [ꜛ](#table-of-contents)
+---
+\
 An embodiment design aims to prototype a feature such that it does what it's intended to do at a lesser degree, otherwise known as an "unbelievable feature". [[19, Slide 24]]() Embodiment designs are usually backed up by reference designs, guidelines, research, models, and sometimes intuition.
+
+#### Example
 
 ![Embodiment Design](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/embodiment.png)
 
@@ -602,6 +606,19 @@ An embodiment design aims to prototype a feature such that it does what it's int
 3D printing is a very useful way to quickly design and piece together mechanisms that would require complicated parts of a specific size that would not be obtainable elsewhere. The unbelievable feature in this case, the scissor lift, is 3D printed.
 
 ### Scale Prototype [ꜛ](#table-of-contents)
+---
+\
+The main purpose of a scale prototype is to provide some intuition of its proportions without the need to create a life-sized version. Scaled prototypes are most effective when accompanied by something to reference. Although not the primary focus, it may also be possible to conduct tests at a smaller magnitude on a scale prototype.
+
+#### Example
+![Scale Prototype](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/scale_prototype.png)
+
+<sub><i>Figure 19.</i> Doing scaled down force testing on a 1:6 scale model of a 3D-printed concept for Praxis I</sub>
+
+This prototype ended up being used as a scale model and testing. My Praxis I teammate also 3D-printed a black frame which helped me gauge the size of a 1:6 scaled human.
+
+### Graphical Prototype (3D Modelling) [ꜛ](#table-of-contents)
+
 
 ### Graphical Prototype (3D Modelling) [ꜛ](#table-of-contents)
 
