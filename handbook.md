@@ -635,9 +635,32 @@ The nice thing with CAD is when any ideas arise, it can be quickly implemented t
 ---
 ---
 \
-verifation
+Verification is concerned with testing designs against requirements that have metrics defined and is perforemd far before and up to the development of a final design. It ensures viability of the product and answers the important question: Was the end product realized right? [[20, page 98]](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf)
+
+Test results can be absolute or relative with the former preferred:
+- Absolute: Testing results are checked against a constraint imposed on a requirement
+- Relative: Results are compared against other designs where the same test is performed.
+
+There are multiple ways of performing verification, including mathematical analysis, physical inspection, demonstration and testing. [[20, page 92]](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf)
 
 ### Proxy Testing [ꜛ](#table-of-contents)
+---
+\
+When resources are limited, it may not be possible to have a fully functional testing rig with state-of-the-art measurement instruments.
+
+#### Proxying Equipment
+Given sufficient research and justifiable assumptions, a proxy test may be developed in replacement, that is a lower fidelity testing rig used to reproduce what the higher fidelity one aims to achieve with reasonable accuracy. I noticed that many results that came out of my proxy tests can only be compared relative to one another, which may still be useful to approximately determine if a design is better than another.
+
+#### Proxying Users
+Sometimes, it is necessary to proxy the stakeholder, which requires one to be deliberate when choosing an appropriate proxy. For example, it may be disrespectful to simulate a disability [[21]](https://pubmed.ncbi.nlm.nih.gov/28287757/) if one does not have first-hand experience with it. A more appropriate action one can take is to do sufficient research on how the living conditions of the stakeholder could be simulated instead.
+
+#### Example
+![Center of Gravity Tracker](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/center_of_gravity.png)
+
+<sub><i>Figure 21.</i> Testing rig to track changes in center of mass as user interacts with a 1:1 scale model. Click to see <a href="https://github.com/Togohogo1-Archive/centroid-tracker">Code</a></sub>
+
+#### Takeaways
+It is often the case that designing a proxy test and its procedures is an engineering challenge on its own.
 
 ## References [ꜛ](#table-of-contents) [ꜛ](#table-of-contents)
 ---
@@ -680,3 +703,7 @@ verifation
 [18] S. Pugh, “Concept Selection: A Method that Works,” Proceedings of International Conference on Engineering Design, Heurista, Zürich, 1981, pp. 497-506.
 
 [19] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2016%20slides%20(1).pdf
+
+[20] https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf
+
+[21] https://pubmed.ncbi.nlm.nih.gov/28287757/
