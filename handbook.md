@@ -147,7 +147,7 @@ The PIAA model is a way of thinking that allows one to reflect on their percepti
 
 ![Perceive Interpret Assess Act](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/piaa.png)
 
-<sup><i>Figure 2.</i> Visual representation adaptation of the PIAA model taken from <a href="">[4]</a></sup>
+<sup><i>Figure 2.</i> Visual representation adaptation of the PIAA model taken from <a href="">[3, slide 37]</a></sup>
 
 #### Components
 There are 4 components of the PIAA model:
@@ -169,9 +169,9 @@ This tool allows one to craft structurally sound arguments. It makes sure argume
 
 ![Toulmin's Structure of Argument](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/toulmin.png)
 
-<sup><i>Figure 3.</i> Visual representation adaptation if Toulmin's Structure of Argument taken from <a href="">[6]</a></sup>
+<sup><i>Figure 3.</i> Visual representation adaptation if Toulmin's Structure of Argument taken from <a href="">[5, slide 32]</a></sup>
 
-#### Components [[5]]()
+#### Components [[6, pages 21-24]]()
 Commonly, Toulmin's model includes:
 <table>
     <tr>
@@ -668,44 +668,65 @@ It is often the case that designing a proxy test and its procedures is an engine
 ---
 \
 [1]
-P. Sheridan, R. Irish, and P. Kinnear, “Welcome to Praxis!,” p. 25, 2022.
+P. Sheridan, R. Irish, and P. Kinnear, "Welcome to Praxis!", p. 25, 2022.
 
-[2] https://uthsc.edu/tlc/intellectual-ethical-development.php
+[2]
+"Intellectual and Ethical Development", May 26, 2022. https://uthsc.edu/tlc/intellectual-ethical-development.php (accessed 2023).
 
-[3] `file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2013%20[slides]%20(1).pdf`
+[3]
+P. Sheridan, R. Irish, and P. Kinnear, "Framing and
+Scoping", 2022.
 
-[4] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2003%20actual%20[slides]%20(4).pdf
+[4]
+P. Sheridan, R. Irish, and P. Kinnear, "Yet another
+Foundational Model", 2022.
 
-[5] `toulmin file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2003%20actual%20[slides]%20(4).pdf`
+[5]
+R. Irish, Writing in Engineering: A Brief Guide. Oxford University Press, 2016.
 
-[6] https://ecp.engineering.utoronto.ca/news/writing-in-engineering-a-brief-guide/
+[6]
+P. Sheridan, R. Irish, and P. Kinnear, "Yet another
+Foundational Model", 2022.
 
-[7] https://library.csuchico.edu/sites/default/files/craap-test.pdf
+[7] "Evaluating Information – Applying the CRAAP Test." Chico, California, 9/17/10.
 
-[8] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2005%20[slides].pdf
+[8]
+P. Sheridan, R. Irish, and P. Kinnear, "Finishing Requirements and Making Connections", 2022.
 
-[9] TTL RFP
+[9] K. Wang et al., "Toronto_Tool_Library_Request_for_Proposal_v3", 2023.
 
-[10] UMC RFP
+[10]
+L. Automare et al., "Request for Proposal Ukrainian Museum of Canada", 2023.
 
-[11] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2022%20[slides].pdf
+[11]
+P. Sheridan, R. Irish, and P. Kinnear, "Constraints, Creativity and Diverging", 2022.
 
-[12] file:///C:/Users/kevin/Downloads/27%20Creativity%20Tools%20for%20Divergent%20and%20Convergent%20Thinking%20[uncurated]%20(9).pdf
+[12]
+R. Vullings and M. Heleven, "27 Creativity Tools for Divergent and Convergent Thinking." [Online]. Available: CreativityToday.net.
 
-[13] my diverging strand analysis
+[13]
+K. Wang, "diverging_strand_analysis." 2022.
 
-[14] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2023%20[slides]%20(2).pdf
+[14]
+P. Sheridan, R. Irish, and P. Kinnear, "Thinking to Ideate & Building to Think", 2022.
 
-[15] https://www.theverge.com/circuitbreaker/2017/2/17/14647990/zte-hawkeye-phone-kickstarter-campaign-end
+[15]
+A. Carman, “ZTE is shutting down its failed Hawkeye phone Kickstarter campaign,” Feb. 17, 2017. https://www.theverge.com/circuitbreaker/2017/2/17/14647990/zte-hawkeye-phone-kickstarter-campaign-end (accessed 2023).
 
-[16] https://www.researchgate.net/publication/365313393_Metaphors_To_Design_By_Developing_Representations_of_Engineering_Design
+[16]
+P. Sheridan, R. Irish, and J. Foster, “Metaphors To Design By: Developing Representations of Engineering Design,” 2022, doi: 10.24908/pceea.vi.15971.
 
-[17] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2027%20[slides]%20(1).pdf
+[17]
+P. Sheridan, R. Irish, and P. Kinnear, "The Converging Strand", 2022.
 
-[18] S. Pugh, “Concept Selection: A Method that Works,” Proceedings of International Conference on Engineering Design, Heurista, Zürich, 1981, pp. 497-506.
+[18]
+S. Pugh, “Concept Selection: A Method that Works,” Proceedings of International Conference on Engineering Design, Heurista, Zürich, 1981, pp. 497-506.
 
-[19] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2016%20slides%20(1).pdf
+[19]
+P. Sheridan, R. Irish, and P. Kinnear, "Scoping, Framing and Levels of Design", 2022.
 
-[20] https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf
+[20]
+S. R. Hirshorn, NASA Systems Engineering Handbook. National Aeronautics and Space Administration, 2020.
 
-[21] https://pubmed.ncbi.nlm.nih.gov/28287757/
+[21]
+M. Nario-Redmond, D. Gospodinov, and A. Munoz-Geoghegan, “Crip for a Day: The Unintended Negative Consequences of Disability Simulations,” vol. 62, Mar. 2017, doi: 10.1037/rep0000127.
