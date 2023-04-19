@@ -544,7 +544,12 @@ The Pugh chart is a classical decision-making tool used to select the best conce
 #### Measurements Matrix
 The Pugh chart requires a measurements matrix as its basis for comparison. In a measurements matrix, the rows represent the metrics derived from requirements and the columns represents the design candidates. Each cell contains a value that can be compared relative to others.
 
+![Measurements Matrix](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/mmatrix.png)
 
+<sub><i>Figure 15.</i> Measurements matrix used in Praxis II containing measured data for each final design concept from various testing protocols.</sub>
+
+#### Pugh Chart Procedure and Example
+As a novice engineer, it is important to use the Pugh chart as intended. As referenced by the original paper [[18]](), the following steps outline exactly what to do.
 
 ## Representing [ꜛ](#table-of-contents)
 ---
