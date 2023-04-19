@@ -352,7 +352,7 @@ The following examples of requirements are taken from the TTL RFP:
 
 <sub><i>Figure 6.</i> Requirement taken from <a href="https://www.umcontario.com/about">[9]</a>. The high-level objective is usability.</sub>
 
-7.2.3 contains the detailed objective, the metric, constraint, then criteria. Here are some key observations:
+`7.2.3` contains the detailed objective, the metric, constraint, then criteria. Here are some key observations:
 - "Should" is used in the constraint because of the tolerance in the constraint.
 - The metric is quantifiable
 - A justification is usually provided to explain why a requirement is important for the stakeholders.
@@ -549,7 +549,28 @@ The Pugh chart requires a measurements matrix as its basis for comparison. In a 
 <sub><i>Figure 15.</i> Measurements matrix used in Praxis II containing measured data for each final design concept from various testing protocols.</sub>
 
 #### Pugh Chart Procedure and Example
-As a novice engineer, it is important to use the Pugh chart as intended. As referenced by the original paper [[18]](), the following steps outline exactly what to do.
+As a novice engineer, it is important to use the Pugh chart as intended. As referenced by the original paper [[18]](), the following steps outline exactly what to do, illustrated with an example:
+
+![Pugh Chart 1](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/pugh_chart_1.png)
+
+<sub><i>Figure 16.</i> One of three Pugh charts used in Praxis II to converget to a final concept for showcase</sub>
+
+1. From the concepts in the Measurements Matrix, pick a reference and denote this `DATUM` ("Walle in the case above).
+2. Make a relative comparison between the `DATUM` and the other concepts. If the other concept performs better (defined by criteria) put an indication that it's better in the cell using words or symbols. A similar procedure applies when the other concept performs the same or worse.
+3. A design candidate can be eliminated from a comparison if it performs objectively worse than the `DATUM` across all metrics.
+4. Do not treat the Pugh chart as a mathematical aggregation [[19, slide 28]](). This is because adding up the "Betters" and the "Worses" discredits the importance of the weights of each metric.
+5. Draw conclusions based on the Pugh chart by verbally arguing if the `DATUM` is better than the other candidates. This allows for a deeper analysis into the requirements and also why one design may be stronger than another [[18]]().
+6. Based on the conclusion of one Pugh chart, pick a new `DATUM` if necessary and repeat steps 1 to 5 until a final recommendation is determined.
+
+#### Interpretation
+Here is a short interpreation of the Pugh chart shown above:
+- "Walkway" performs worse than "Walle" in all objectives except for `6.2.1`, but objective `6.2.1` is deemed by team not as important as `6.4.1.1` and `6.4.1.2.`.
+- On a surface level, the "Tree" performs half better and half worse, but `6.5.1` and `6.4.1.2` are important, so we might conclude that "Tree" < "Walle" < Walkway.
+- Next step could be setting the `DATUM` to "Walkway". Doing so, we obtain:
+
+    ![Pugh Chart 2](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/pugh_chart_2.png)
+
+- Which means "Tree" can be eliminated because it is objectively worse than the "Walkway".
 
 ## Representing [ꜛ](#table-of-contents)
 ---
