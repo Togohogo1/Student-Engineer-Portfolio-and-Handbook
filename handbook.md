@@ -428,7 +428,9 @@ Brainwriting 6-3-5 is a more structured diverging tool emphasizing sketching ins
 #### My Experience
 ![Brainwriting](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/brainwriting.png)
 
-<sub><i>Figure 11.</i> Final result of Brainwriting 6-3-5 during Praxis I diverging phase with my team</sub>
+<sub><i>Figure 11.</i> Final result of Brainwriting 6-3-5 during Praxis I diverging phase with my team. Click <a href="https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/brainwriting.png">here</a> for a higher quality image.</sub>
+
+My Praxis I team and I used this tool to come up with various mechanisms for an improvement
 
 
 ### Lotus Blossom Technique [ꜛ](#table-of-contents)
