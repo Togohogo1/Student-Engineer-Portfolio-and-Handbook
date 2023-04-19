@@ -285,7 +285,8 @@ The following design experiences are listed in order of commencement. They attem
 ### Praxis I Design Report [ꜛ](#table-of-contents)
 ---
 \
-bruh
+![Praxis I Onepager](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/civ_onepager.png)
+<sup><i>Figure 3.</i> Summary of the work done for my Praxis I Design Report. If the image is too blurry or small, a [PDF](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/p1_onepager.pdf) is available.</sup>
 
 ### CIV102 Matboard Bridge Design Project [ꜛ](#table-of-contents)
 ---
