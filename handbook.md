@@ -615,12 +615,21 @@ The main purpose of a scale prototype is to provide some intuition of its propor
 
 <sub><i>Figure 19.</i> Doing scaled down force testing on a 1:6 scale model of a 3D-printed concept for Praxis I</sub>
 
-This prototype ended up being used as a scale model and testing. My Praxis I teammate also 3D-printed a black frame which helped me gauge the size of a 1:6 scaled human.
+This prototype ended up being emphasized for testing. My Praxis I teammate also 3D-printed a black frame which helped me gauge the size of a 1:6 scaled human.
 
-### Graphical Prototype (3D Modelling) [ꜛ](#table-of-contents)
+### Graphical Prototype (CAD) [ꜛ](#table-of-contents)
+---
+\
+In general, a graphical prototype conveys information through many forms of media. One can think of graphical prototypes as a more advanced versions of conceptual designs. I believe CAD software is one of the best technologies which allows for the quick creation of a clean looking prototype. CAD is also very practical when hand sketches get too complicated.
 
+#### Example
+![Tree 3D Model](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/tree_cad.png)
 
-### Graphical Prototype (3D Modelling) [ꜛ](#table-of-contents)
+<sub><i>Figure 20.</i> 3D model of our final Tree concept for Praxis II</sub>
+
+Shown above ia a nice render of one of our shelving solutions to store textiles, created by my Praxis II teammate in Shapr3D. Many preliminary such as approximate material, how it looks in real life, and its mechanisms were done very quickly. During Beta, my teammate used the model it as an aid to streamline our concept delivery.
+
+The nice thing with CAD is when any ideas arise, it can be quickly implemented to see how different components interact with each other. Most CAD software also come with other helpful features such as force analysis, 3D rendering, and engineering drawing generation.
 
 ## Verification [ꜛ](#table-of-contents)
 ---
