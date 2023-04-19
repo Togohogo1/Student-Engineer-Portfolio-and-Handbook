@@ -387,7 +387,7 @@ An important question to ask here is if "constraints limit creativity". [[11]]()
 
 <sub><i>Figure 9.</i> Visualization adaptation of design space taken from <a href="https://www.umcontario.com/about">[11, slide 7]</a>. This is my favourite model representation in all of Praxis.</sub>
 
-A scope defines multiple ways to approach an opportunity.
+A scope defines multiple ways to approach an opportunity. The size of the smaller box in the opportunity space defines how broad or narrow the scope is. The solution space defines the potential solutions that could solve any possible scoped opportunity in the opportunity space. Finally, the design space is the solutions that may arise from the scoped opportunity. The magnitude of requirement constraints, determined by factors including materials, budge, time, etc. bounds the design space to a certain size.
 
 ### Classical Brainstorming [ꜛ](#table-of-contents)
 
