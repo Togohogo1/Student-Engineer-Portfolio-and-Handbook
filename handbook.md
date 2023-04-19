@@ -29,6 +29,7 @@ The following TMFs will be listed in a somewhat logical order to use them, each 
 
 ## Definitions [ꜛ](#table-of-contents)
 ---
+---
 \
 As a reminder to myself and also for the sake of being concise, I will define certain terms I reference multiple times in this Handbook.
 <table>
