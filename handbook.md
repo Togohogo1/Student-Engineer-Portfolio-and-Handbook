@@ -534,7 +534,7 @@ Note that the pairwise comparison matrix above compares across an objective rath
 #### Takeaways
 The Pairwise Comparison Matrix is not a rigorous converging tool, but it provides a quick way of reaching tentative convergence. One can play around with the pairwise comparison matrix by playing around with weights.
 
-There are ways to modify the Pairwise Comparison Matrix by playing around with weights
+There are ways to modify the Pairwise Comparison Matrix by playing around with weights. However it is difficult to quantify how important an objective is compared to another.
 
 ### Pugh Chart and Measurements Matrix [ꜛ](#table-of-contents)
 
