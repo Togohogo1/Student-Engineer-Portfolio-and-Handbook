@@ -440,7 +440,7 @@ Brainwriting 6-3-5 was by far the most effective diverging tool for me. It gener
 \
 The Lotus Blossom Technique works by defining a general central topic. Subtopics then "bloom" out of the general topic to become general topics of their own. This diverging tool focuses on bringing out the specifics of a general idea, due to the recursive process of subthemes becoming their own central themes [[13]](). This diverging tool works individually and with a group.
 
-#### How to Use
+#### How to Use [[12, slide 15]]()
 1. Create a 9 by 9 grid that's big enough to fit ideas in each cell
 2. Write the central theme in the centermost cell
 3. In the cells adjacent to it, generate up to 8 subtopics (they go in cells A to H)
@@ -467,6 +467,35 @@ While my Praxis I teammates claimed that the Lotus Blossom was nothing more than
 Lotus Blossom encourages focused, individual diverging. It fully allows for individual values and biases to be conveyed. Unlike Brainwriting 6-3-5 and classical brainstorming. Ideas generated are not influenced by others. Lotus Blossom is not as effective if one tries to fill out all of the cells especially used as a second round diverging tool, due to idea repetition.
 
 ### Morph Charts & SCAMPER [ꜛ](#table-of-contents)
+---
+\
+Morphological (Morph) Charts are divergence tools that are incredibly useful when doing feature divergence. Morph charts often require a high-level concept, and the different mechanisms that may be part of that concept are listed and compared with one another.
+
+#### How it Works
+1. Set up a table. Thw rows represent the aspects of the concept and the columns represent approaches to each aspect.
+2. Come up with approaches for each aspect. This is where research and reference designs may come in handy.
+3. Explore different combinations of aspects to see which ones work the best.
+
+#### SCAMPER
+Enter SCAMPER, a subtool that works best with a Morph Chart. SCAMPER considers what a design needs to accomplish as a whole [[14]]() instead of individual components. SCAMPER is an acronym for:
+- **S**ubstitute
+- **C**ombine
+- **A**dapt
+- **M**odify
+- **P**ut to other purposes
+- **E**liminate
+- **R**everse/Rearrange
+
+Which means a systematic way of finding the right combination to best suit the opportunity. I will not go into too much detail about SCAMPER because it was not effective for me in Praxis I and Praxis II. I think it is because the optimal combination has been identified in Morph Charts by inspection without the need to go through a long process.
+
+#### Example and Takeaways
+![Praxis II Morph Chart](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/morph_chart.png)
+
+<sub><i>Figure 12.</i> Morph chart for Praxis II. Boxed approach was the one that lead us towards our final Showcase concept.</sub>
+
+The Morph Chart is incredibly usefl when doing feature divergence. However, mixing and matching to generate a "best of all approaches" concept will not always work. Otherwise its possible to end up like the ZTE Hawkeye [[15]](https://www.theverge.com/circuitbreaker/2017/2/17/14647990/zte-hawkeye-phone-kickstarter-campaign-end) phone.
+
+The more important takeaway from the Morph Chart would be the quality of research I enact and how detailed I specify about a concept to learn more about it.
 
 ## Converging [ꜛ](#table-of-contents)
 ---
@@ -529,3 +558,7 @@ verifation
 [12] file:///C:/Users/kevin/Downloads/27%20Creativity%20Tools%20for%20Divergent%20and%20Convergent%20Thinking%20[uncurated]%20(9).pdf
 
 [13] my diverging strand analysis
+
+[14] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2023%20[slides]%20(2).pdf
+
+[15] https://www.theverge.com/circuitbreaker/2017/2/17/14647990/zte-hawkeye-phone-kickstarter-campaign-end
