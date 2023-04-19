@@ -17,6 +17,8 @@ permalink: /handbook/
 - [Toulmin's Structure of Argument](#toulmins-structure-of-argument-ꜛ)
 - [The CRAAP Test](#the-craap-test-ꜛ)
 
+[Framing](#framing-ꜛ)
+
 [References](#references)
 
 ## What to Expect [ꜛ](#table-of-contents)
@@ -292,6 +294,18 @@ Running it through the CRAAP test shows that it can be trusted.
         </td>
     </tr>
 </table>
+
+## Framing [ꜛ](#table-of-contents)
+---
+---
+\
+The first component of the FDCR model, Framing is concerned with defining an opportunity based on questioning personal perceptions of the world, which are influenced by their people's experiences and values.
+
+The beginning of framing is involved with scoping - what one considers when defining an opportunity. There are aspects that one could scope out (not consider) and scope in (consider in greater detail). Naturally, each person has a different lens that they look through, giving rise to multiple perspectives.
+
+![Scoping](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/scoping.png)
+
+Multiple rounds of
 
 ## References [ꜛ](#table-of-contents)
 ---
