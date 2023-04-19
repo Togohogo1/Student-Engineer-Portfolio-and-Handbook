@@ -18,6 +18,7 @@ permalink: /handbook/
 - [The CRAAP Test](#the-craap-test-ꜛ)
 
 [Framing](#framing-ꜛ)
+- [The Requirements Model](#the-requirements-model-ꜛ)
 
 [References](#references)
 
@@ -305,9 +306,16 @@ The beginning of framing is involved with scoping - what one considers when defi
 
 ![Scoping](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/scoping.png)
 
-<sub><i>Figure 5.</i> Representation of scoping showing how two people can look at the same image and come up with different interpretations</sub>
+<sub><i>Figure 5.</i> Representation of scoping showing how two people can look at the same image and come up with different interpretations. Image retrieved from: <a href="https://www.umcontario.com/about">https://www.umcontario.com/about.</a></sub>
 
-Multiple rounds of
+Multiple rounds of scoping is known as rescoping, which usually happens when new information about the opportunity is obtained or the current scope is not at a suitable scale.
+
+Scoping paves the way for one of the most important TMFs in engineering design - The Requirements Model.
+
+## The Requirements Model [ꜛ](#table-of-contents)
+---
+\
+req
 
 ## References [ꜛ](#table-of-contents)
 ---
