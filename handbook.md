@@ -657,11 +657,11 @@ Sometimes, it is necessary to proxy the stakeholder, which requires one to be de
 #### Example
 ![Center of Gravity Tracker](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/center_of_gravity.png)
 
-<sub><i>Figure 21.</i> Testing rig to track changes in center of mass as user interacts with a 1:1 scale model of the storage system. <a href="https://github.com/Togohogo1-Archive/centroid-tracker">Code</a>.</sub>
+<sub><i>Figure 21.</i> Testing rig to track changes in center of mass as user interacts with a 1:1 scale model of the storage system. <a href="https://github.com/Togohogo1/centroid-tracker">Code</a>.</sub>
 
 Users were proxied to a certain extent since we needed people to interact with the system and we should not simulate an elderly volunteer. The bulk of the proxy test was still mechanical, specifically using a pre-trained pose detection model to track body positions and then finding body distribution research to determine the center of mass. The results obtained from this proxy test provided us with valuable data for relative comparisons.
 
-#### Takeaways
+#### <u>Takeaways</u>
 It is often the case that designing a proxy test and its procedures is an engineering challenge on its own.
 
 ## References [ꜛ](#table-of-contents)
