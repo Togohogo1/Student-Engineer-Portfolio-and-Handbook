@@ -595,6 +595,12 @@ Many of the features sketched made it into the final design, like the lifting me
 ### Embodiment Design [ꜛ](#table-of-contents)
 An embodiment design aims to prototype a feature such that it does what it's intended to do at a lesser degree, otherwise known as an "unbelievable feature". [[19, Slide 24]]() Embodiment designs are usually backed up by reference designs, guidelines, research, models, and sometimes intuition.
 
+![Embodiment Design](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/embodiment.png)
+
+<sub><i>Figure 18.</i> 3D print of the Walkway as an embodiment design with the ability to be raised/lowered</sub>
+
+3D printing is a very useful way to quickly design and piece together mechanisms that would require complicated parts of a specific size that would not be obtainable elsewhere. The unbelievable feature in this case, the scissor lift, is 3D printed.
+
 ### Scale Prototype [ꜛ](#table-of-contents)
 
 ### Graphical Prototype (3D Modelling) [ꜛ](#table-of-contents)
