@@ -312,10 +312,21 @@ Multiple rounds of scoping is known as rescoping, which usually happens when new
 
 Scoping paves the way for one of the most important TMFs in engineering design - The Requirements Model.
 
-## The Requirements Model [ꜛ](#table-of-contents)
+### The Requirements Model [ꜛ](#table-of-contents)
 ---
 \
-req
+In engineering documents where The Requirements Model is needed, requirements define specifications that a solution addressing an engineering opportunity should need.
+
+#### Components
+The Requirements Model consits of various requirement strings (sometimes shortened as requirements) that contain the following: [[8]]()
+- **Objectives**: To capture the intention of the design by defining something the design should be or do. Objectives can be broken down into high-level and low-level
+    - **High-level objectives**: A very general objective that allows more flexibility in what a design should be or do.
+    - **Low-level objectives**: Specifies a high-level objective to narrow down on what a design should be or do, preferably in a way such that it can be quantified.
+- **Metrics**: The way that the objective is measured
+- **Constraints**: Based on metrics, defines boundaries that the design must not violate. [[6]]() A design is viable if it meets the constraints. Can be defined with tolerances or hard limits.
+- **Criteria**: Defines the relationships between measurements. [[6]]() Qualifies the viability of a design within acceptable constraints.
+
+#### Examples
 
 ## References [ꜛ](#table-of-contents)
 ---
@@ -334,3 +345,5 @@ req
 [6] https://ecp.engineering.utoronto.ca/news/writing-in-engineering-a-brief-guide/
 
 [7] https://library.csuchico.edu/sites/default/files/craap-test.pdf
+
+[8] file:///C:/Users/kevin/Desktop/praxsus/ESC101%2020229%20Lecture%2005%20[slides].pdf
