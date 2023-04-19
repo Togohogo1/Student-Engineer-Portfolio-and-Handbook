@@ -506,13 +506,12 @@ Converging is concerned with the decision-making process - throwing ideas away a
 Since engineering design is iterative, multiple rounds of diverging and converging (and if necessary, framing) can happen multiple times, continually shrinking and expanding the solution pool until a final solution is reached.
 
 The following sections introduces two converging tools that are often used sequentially.
-
-### Pairwise Comparison Matrix [ꜛ](#table-of-contents)
-This converging tool is quite basic. It allows for every design to be compared against each other.
-
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-Suppose there are $$ n \ne 0 $$ designs.
+### Pairwise Comparison Matrix [ꜛ](#table-of-contents)
+---
+\
+This converging tool is quite basic. It allows for every design to be compared against each other. Suppose there are $$n$$ designs. Then the total comparisons would be $$ \frac{n(n-1)}{2} \approx \frac{n^2}{2}$$. These comparisons are usually made quickly without much evidence to back up how one design is better than another.
 
 ```
 ```
