@@ -572,6 +572,9 @@ Here is a short interpreation of the Pugh chart shown above:
 
 - Which means "Tree" can be eliminated because it is objectively worse than the "Walkway".
 
+#### Takeaways
+It is key to recognize that the Pugh Chart does not make the final decision for the engineer. If a Pugh Chart made the decision for the user (mathematically, like the Pairwise Comparison Matrix) then there would be no point in hiring an engineer to make the decision.
+
 ## Representing [ꜛ](#table-of-contents)
 ---
 ---
