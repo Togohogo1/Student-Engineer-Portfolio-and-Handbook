@@ -579,9 +579,18 @@ It is key to recognize that the Pugh Chart does not make the final decision for 
 ---
 ---
 \
-represt
+To represent an idea is to display it in a way that shows meaning. Representation can take on many forms at any point of the engineering design process, such as sketches, models, simulations, photographs, etc.This section will only focus on two specific types of designs and prototypes that aided me the most in my engineering design journey.
 
 ### Conceptual Design [ꜛ](#table-of-contents)
+---
+\
+Usually taking on the form of sketches or very rough prototypes, conceptual designs are meant to capture a concept. It gives one something to show to others, hopefully to help them understand an idea that might be harder to express otherwise. This is the stage where most design solutions start out. Usually an emphasis is put on a key feature that make it to the next level of design (Embodiment Design, explained shortly)
+
+![Walkway Sketches](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/walkway_concept.png)
+
+<sub><i>Figure 17.</i> Conceptual designs created right after Beta for the Walkway</sub>
+
+Many of the features sketched made it into the final design, like the lifting mechanism, tiling, approximate dimensions, and cut-out slots where wheels can fit. Note that many conceptual designs do not make it to the next stage.
 
 ### Embodiment Design [ꜛ](#table-of-contents)
 
