@@ -11,7 +11,7 @@ permalink: /portfolio/
 
 [Engineering, Design, and Engineering Design](#engineering-design-and-engineering-design-ꜛ)
 
-[Position in Context and My Design Process](#position-in-context-and-my-design-process)
+[Position in Context and My Design Process](#position-in-context-and-my-design-process-ꜛ)
 - [Values](#values-ꜛ)
 - [Abilities](#abilities-ꜛ)
 - [Strengths](#strengths-ꜛ)

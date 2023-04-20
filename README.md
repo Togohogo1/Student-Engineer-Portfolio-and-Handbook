@@ -12,3 +12,4 @@ Engineering handbook detailing all the engineering principles I learnt from ESC1
 - link 4 in handbook messed up indexing
 - fix up all references (messed up fr)
 - redo references
+- refactor the one pagers
