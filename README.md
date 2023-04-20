@@ -13,3 +13,5 @@ Engineering handbook detailing all the engineering principles I learnt from ESC1
 - fix up all references (messed up fr)
 - redo references
 - refactor the one pagers
+
+remember: let this be my "design portfolio" i kinda promised to create
