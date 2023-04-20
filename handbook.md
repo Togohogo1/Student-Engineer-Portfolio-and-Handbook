@@ -112,7 +112,7 @@ For student engineers, the goal of the Perry Model is to show the possibility of
 
 <sup><i>Figure 1.</i> Visual representation adaptation of the Perry Model taken from <a href="https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B">[1, slide 25]</a></sup>
 
-#### Dualism to Multiplicity [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
+#### Dualism to Multiplicity [[2]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 First:
 - The acceptance that there is only right and wrong (represented by black and white)
 - Authority figures hold the answers where one accepts as true
@@ -122,7 +122,7 @@ Then:
 - Can be frustrating at times if accustomed to dual thinking
 - Multiple interpretations start to create puzzlement
 
-#### Relativism to Commitment [[2]](https://uthsc.edu/tlc/intellectual-ethical-development.php)
+#### Relativism to Commitment [[2]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 After:
 - Recognition of multiple perspectives, answers, approaches
 - Authority figures do not always have the right answer
@@ -147,7 +147,7 @@ The PIAA model is a way of thinking that allows one to reflect on their percepti
 
 ![Perceive Interpret Assess Act](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/piaa.png)
 
-<sup><i>Figure 2.</i> Visual representation adaptation of the PIAA model taken from <a href="">[3, slide 37]</a></sup>
+<sup><i>Figure 2.</i> Visual representation adaptation of the PIAA model taken from <a href="https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B">[3, slide 37]</a></sup>
 
 #### Components
 There are 4 components of the PIAA model:
@@ -169,9 +169,9 @@ This tool allows one to craft structurally sound arguments. It makes sure argume
 
 ![Toulmin's Structure of Argument](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/toulmin.png)
 
-<sup><i>Figure 3.</i> Visual representation adaptation if Toulmin's Structure of Argument taken from <a href="">[5, slide 32]</a></sup>
+<sup><i>Figure 3.</i> Visual representation adaptation if Toulmin's Structure of Argument taken from <a href="https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B">[5, slide 32]</a></sup>
 
-#### Components [[6, pages 21-24]]()
+#### Components [[6, pages 21-24]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 Commonly, Toulmin's model includes:
 <table>
     <tr>
@@ -219,7 +219,7 @@ Toulmin's model should be used every time one has to make a claim, like the PIAA
 \
 The CRAAP test is used to evaluate the credibility of secondary research. That is, research not conducted through testing, modelling, and experimentation.
 
-#### Components [[7]](https://library.csuchico.edu/sites/default/files/craap-test.pdf)
+#### Components [[7]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 CRAAP is an acronym, which makes the test easy to memory and apply:
 <table>
     <tr>
@@ -337,20 +337,20 @@ Scoping paves the way for one of the most important TMFs in engineering design -
 In engineering documents where The Requirements Model is needed, requirements define specifications that a solution addressing an engineering opportunity should need.
 
 #### Components
-The Requirements Model consists of various requirement strings (sometimes shortened as requirements) that contain the following: [[8]]()
+The Requirements Model consists of various requirement strings (sometimes shortened as requirements) that contain the following: [[8]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 - **Objectives**: To capture the intention of the design by defining something the design should be or do. Objectives can be broken down into high-level and low-level
     - **High-level objectives**: A very general objective that allows more flexibility in what a design should be or do.
     - **Low-level objectives**: Specifies a high-level objective to narrow down on what a design should be or do, preferably in a way such that it can be quantified.
 - **Metrics**: The way that the objective is measured
-- **Constraints**: Based on metrics, defines boundaries that the design must not violate. [[6]]() A design is viable if it meets the constraints. Can be defined with tolerances or hard limits.
-- **Criteria**: Defines the relationships between measurements. [[6]]() Qualifies the viability of a design within acceptable constraints.
+- **Constraints**: Based on metrics, defines boundaries that the design must not violate. [[6]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B) A design is viable if it meets the constraints. Can be defined with tolerances or hard limits.
+- **Criteria**: Defines the relationships between measurements. [[6]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B) Qualifies the viability of a design within acceptable constraints.
 
 #### Examples
 The following examples of requirements are taken from the TTL RFP:
 
 ![TTL Usability Requirement 1](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/ttl_req_1.png)
 
-<sub><i>Figure 6.</i> Requirement taken from <a href="https://www.umcontario.com/about">[9]</a>. The high-level objective is usability.</sub>
+<sub><i>Figure 6.</i> Requirement taken from <a href="https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B">[9]</a>. The high-level objective is usability.</sub>
 
 `7.2.3` contains the detailed objective, the metric, constraint, then criteria. Here are some key observations:
 - "Should" is used in the constraint because of the tolerance in the constraint.
@@ -361,7 +361,7 @@ Here is another requirement:
 
 ![TTL Usability Requirement 2](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/ttl_req_2.png)
 
-<sub><i>Figure 7.</i> Requirement taken from <a href="https://www.umcontario.com/about">[9]</a></sub>
+<sub><i>Figure 7.</i> Requirement taken from <a href="https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B">[9]</a></sub>
 
 And some observations and conclusions:
 - A requirement does not need a constraint when appropriate. In this case, finding the upper bound for cost was not a feasible task given our resources, but we intuitively knew that the criteria is "the less the better".
@@ -373,7 +373,7 @@ A graphical format helps better visualize how requirements are connected with ea
 
 ![UMC Requirements](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/umc_req_pic.png)
 
-<sub><i>Figure 8.</i> Graphical requirements taken from <a href="https://www.umcontario.com/about">[10]</a>. Our team commonly referenced it from time to time leading up to showcase.</sub>
+<sub><i>Figure 8.</i> Graphical requirements taken from <a href="https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B">[10]</a>. Our team commonly referenced it from time to time leading up to showcase.</sub>
 
 ## Diverging [ꜛ](#table-of-contents)
 ---
@@ -381,23 +381,23 @@ A graphical format helps better visualize how requirements are connected with ea
 \
 Put simply, diverging refers to the generation of ideas. How systematic diverging can be depends on the design space and diverging tool.
 
-An important question to ask here is if "constraints limit creativity". [[11]](). To answer this question, a useful schematic to look at the notion of a design space is shown below.
+An important question to ask here is if "constraints limit creativity". [[11]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B). To answer this question, a useful schematic to look at the notion of a design space is shown below.
 
 ![Design Space](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/design_space.png)
 
-<sub><i>Figure 9.</i> Visualization adaptation of design space taken from <a href="https://www.umcontario.com/about">[11, slide 7]</a>. This is my favourite model representation in all of Praxis.</sub>
+<sub><i>Figure 9.</i> Visualization adaptation of design space taken from <a href="https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B">[11, slide 7]</a>. This is my favourite model representation in all of Praxis.</sub>
 
 A scope defines multiple ways to approach an opportunity. The size of the smaller box in the opportunity space defines how broad or narrow the scope is. The solution space defines the potential solutions that could solve any possible scoped opportunity in the opportunity space. Finally, the design space is the solutions that may arise from the scoped opportunity. The magnitude of requirement constraints, determined by factors including materials, budge, time, etc. bounds the design space to a certain size.
 
-This analogy turns divergence into an optimization problem. If the design space is too small, no ideas will come out. If it is too large, creative thought is limited. Some divergence tools inherently come with constraints, which may help or hinder finding the sweet spot of creative idea generation. [[11]]()
+This analogy turns divergence into an optimization problem. If the design space is too small, no ideas will come out. If it is too large, creative thought is limited. Some divergence tools inherently come with constraints, which may help or hinder finding the sweet spot of creative idea generation. [[11]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 
 ### Classical Brainstorming [ꜛ](#table-of-contents)
 ---
 \
-Classical brainstorming, or just brainstorming, is a popular diverging tool that most people are familiar with. There is usually no structure or restrictions to what can be during brainstorming. [[12, slide 11]]()
+Classical brainstorming, or just brainstorming, is a popular diverging tool that most people are familiar with. There is usually no structure or restrictions to what can be during brainstorming. [[12, slide 11]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 
 #### Features
-There are a few things to keep in mind however: [[12, slide 11]]()
+There are a few things to keep in mind however: [[12, slide 11]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 1. There should be no criticism for designs, even objectively bad ones.
 2. Quantity over quality. The goal is to generate so many ideas that at least one is a good one.
 3. Pay attention to the ideas of others and try to build off of them.
@@ -413,9 +413,9 @@ I personally found classical brainstorming to be a great starting point. However
 ### Brainwriting 6-3-5 [ꜛ](#table-of-contents)
 ---
 \
-Brainwriting 6-3-5 is a more structured diverging tool emphasizing sketching instead of discussion, and it works best with a group. It supplements some of the drawbacks of brainstorming, namely uneven participation from group members. The process of executing Brainwriting 6-3-5 is outlined below: [[12, slide 8]]()
+Brainwriting 6-3-5 is a more structured diverging tool emphasizing sketching instead of discussion, and it works best with a group. It supplements some of the drawbacks of brainstorming, namely uneven participation from group members. The process of executing Brainwriting 6-3-5 is outlined below: [[12, slide 8]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 
-#### Features  [[12, slide 8]]()
+#### Features  [[12, slide 8]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 1. Agree on a way to scope the opportunity
 2. Prepare a collection of sticky notes or cue cards preferably
 3. Distribute three stick notes to each person
@@ -438,9 +438,9 @@ Brainwriting 6-3-5 was by far the most effective diverging tool for me. It gener
 ### Lotus Blossom Technique [ꜛ](#table-of-contents)
 ---
 \
-The Lotus Blossom Technique works by defining a general central topic. Subtopics then "bloom" out of the general topic to become general topics of their own. This diverging tool focuses on bringing out the specifics of a general idea, due to the recursive process of subthemes becoming their own central themes [[13]](). This diverging tool works individually and with a group.
+The Lotus Blossom Technique works by defining a general central topic. Subtopics then "bloom" out of the general topic to become general topics of their own. This diverging tool focuses on bringing out the specifics of a general idea, due to the recursive process of subthemes becoming their own central themes [[13]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B). This diverging tool works individually and with a group.
 
-#### How to Use [[12, slide 15]]()
+#### How to Use [[12, slide 15]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 1. Create a 9 by 9 grid that's big enough to fit ideas in each cell
 2. Write the central theme in the centermost cell
 3. In the cells adjacent to it, generate up to 8 subtopics (they go in cells A to H)
@@ -477,7 +477,7 @@ Morphological (Morph) Charts are divergence tools that are incredibly useful whe
 3. Explore different combinations of aspects to see which ones work the best.
 
 #### SCAMPER
-Enter SCAMPER, a subtool that works best with a Morph Chart. SCAMPER considers what a design needs to accomplish as a whole [[14]]() instead of individual components. SCAMPER is an acronym for:
+Enter SCAMPER, a subtool that works best with a Morph Chart. SCAMPER considers what a design needs to accomplish as a whole [[14]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B) instead of individual components. SCAMPER is an acronym for:
 - **S**ubstitute
 - **C**ombine
 - **A**dapt
@@ -493,7 +493,7 @@ Which means a systematic way of finding the right combination to best suit the o
 
 <sub><i>Figure 13.</i> Morph chart for Praxis II. Boxed approach was the one that lead us towards our final Showcase concept.</sub>
 
-The Morph Chart is incredibly useful when doing feature divergence. However, mixing and matching to generate a "best of all approaches" concept will not always work. Otherwise its possible to end up like the ZTE Hawkeye [[15]](https://www.theverge.com/circuitbreaker/2017/2/17/14647990/zte-hawkeye-phone-kickstarter-campaign-end) phone.
+The Morph Chart is incredibly useful when doing feature divergence. However, mixing and matching to generate a "best of all approaches" concept will not always work. Otherwise its possible to end up like the ZTE Hawkeye [[15]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B) phone.
 
 The more important takeaway from the Morph Chart would be the quality of research I enact and how detailed I specify about a concept to learn more about it.
 
@@ -501,7 +501,7 @@ The more important takeaway from the Morph Chart would be the quality of researc
 ---
 ---
 \
-Converging is concerned with the decision-making process - throwing ideas away after a round of divergence through formal and informal techniques. [[16]](https://www.researchgate.net/publication/365313393_Metaphors_To_Design_By_Developing_Representations_of_Engineering_Design)
+Converging is concerned with the decision-making process - throwing ideas away after a round of divergence through formal and informal techniques. [[16]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 
 Since engineering design is iterative, multiple rounds of diverging and converging (and if necessary, framing) can happen multiple times, continually shrinking and expanding the solution pool until a final solution is reached.
 
@@ -529,7 +529,7 @@ else:
 ```
 Values are added up horizontally at the end. The concept with the largest sum is determined the best.
 
-Note that the pairwise comparison matrix above compares across an objective rather than the design holistically, which is valid way of doing pairwise comparison. [[17, slide 68]]()
+Note that the pairwise comparison matrix above compares across an objective rather than the design holistically, which is valid way of doing pairwise comparison. [[17, slide 68]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 
 #### Takeaways
 The Pairwise Comparison Matrix is not a rigorous converging tool, but it provides a quick way of reaching tentative convergence. One can play around with the pairwise comparison matrix by playing around with weights.
@@ -539,7 +539,7 @@ There are ways to modify the Pairwise Comparison Matrix by playing around with w
 ### Pugh Chart and Measurements Matrix [ꜛ](#table-of-contents)
 ---
 \
-The Pugh chart is a classical decision-making tool used to select the best concept. The Pugh chart contains an objective component (comparisons via a measurements matrix) and a subjective component (deferring the decision maker for the engineer). [[18]]()
+The Pugh chart is a classical decision-making tool used to select the best concept. The Pugh chart contains an objective component (comparisons via a measurements matrix) and a subjective component (deferring the decision maker for the engineer). [[18]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 
 #### Measurements Matrix
 The Pugh chart requires a measurements matrix as its basis for comparison. In a measurements matrix, the rows represent the metrics derived from requirements and the columns represents the design candidates. Each cell contains a value that can be compared relative to others.
@@ -549,7 +549,7 @@ The Pugh chart requires a measurements matrix as its basis for comparison. In a 
 <sub><i>Figure 15.</i> Measurements matrix used in Praxis II containing measured data for each final design concept from various testing protocols.</sub>
 
 #### Pugh Chart Procedure and Example
-As a novice engineer, it is important to use the Pugh chart as intended. As referenced by the original paper [[18]](), the following steps outline exactly what to do, illustrated with an example:
+As a novice engineer, it is important to use the Pugh chart as intended. As referenced by the original paper [[18]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B), the following steps outline exactly what to do, illustrated with an example:
 
 ![Pugh Chart 1](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/pugh_chart_1.png)
 
@@ -558,8 +558,8 @@ As a novice engineer, it is important to use the Pugh chart as intended. As refe
 1. From the concepts in the Measurements Matrix, pick a reference and denote this `DATUM` ("Walle in the case above).
 2. Make a relative comparison between the `DATUM` and the other concepts. If the other concept performs better (defined by criteria) put an indication that it's better in the cell using words or symbols. A similar procedure applies when the other concept performs the same or worse.
 3. A design candidate can be eliminated from a comparison if it performs objectively worse than the `DATUM` across all metrics.
-4. Do not treat the Pugh chart as a mathematical aggregation [[19, slide 28]](). This is because adding up the "Betters" and the "Worses" discredits the importance of the weights of each metric.
-5. Draw conclusions based on the Pugh chart by verbally arguing if the `DATUM` is better than the other candidates. This allows for a deeper analysis into the requirements and also why one design may be stronger than another [[18]]().
+4. Do not treat the Pugh chart as a mathematical aggregation [[19, slide 28]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B). This is because adding up the "Betters" and the "Worses" discredits the importance of the weights of each metric.
+5. Draw conclusions based on the Pugh chart by verbally arguing if the `DATUM` is better than the other candidates. This allows for a deeper analysis into the requirements and also why one design may be stronger than another [[18]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B).
 6. Based on the conclusion of one Pugh chart, pick a new `DATUM` if necessary and repeat steps 1 to 5 until a final recommendation is determined.
 
 #### Interpretation
@@ -584,7 +584,7 @@ To represent an idea is to display it in a way that shows meaning. Representatio
 ### Conceptual Design [ꜛ](#table-of-contents)
 ---
 \
-Usually taking on the form of sketches or very rough prototypes, conceptual designs are meant to capture a concept. [[19, Slide 24]]() It gives one something to show to others, hopefully to help them understand an idea that might be harder to express otherwise. This is the stage where most design solutions start out. Usually an emphasis is put on a key feature that make it to the next level of design (Embodiment Design, explained shortly)
+Usually taking on the form of sketches or very rough prototypes, conceptual designs are meant to capture a concept. [[19, Slide 24]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B) It gives one something to show to others, hopefully to help them understand an idea that might be harder to express otherwise. This is the stage where most design solutions start out. Usually an emphasis is put on a key feature that make it to the next level of design (Embodiment Design, explained shortly)
 
 ![Walkway Sketches](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/walkway_concept.png)
 
@@ -595,7 +595,7 @@ Many of the features sketched made it into the final design, like the lifting me
 ### Embodiment Design [ꜛ](#table-of-contents)
 ---
 \
-An embodiment design aims to prototype a feature such that it does what it's intended to do at a lesser degree, otherwise known as an "unbelievable feature". [[19, Slide 24]]() Embodiment designs are usually backed up by reference designs, guidelines, research, models, and sometimes intuition.
+An embodiment design aims to prototype a feature such that it does what it's intended to do at a lesser degree, otherwise known as an "unbelievable feature". [[19, Slide 24]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B) Embodiment designs are usually backed up by reference designs, guidelines, research, models, and sometimes intuition.
 
 #### Example
 
@@ -635,13 +635,13 @@ The nice thing with CAD is when any ideas arise, it can be quickly implemented t
 ---
 ---
 \
-Verification is concerned with testing designs against requirements that have metrics defined and is performed far before and up to the development of a final design. It ensures viability of the product and answers the important question: Was the end product realized right? [[20, page 98]](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf)
+Verification is concerned with testing designs against requirements that have metrics defined and is performed far before and up to the development of a final design. It ensures viability of the product and answers the important question: Was the end product realized right? [[20, page 98]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 
 Test results can be absolute or relative with the former preferred:
 - Absolute: Testing results are checked against a constraint imposed on a requirement
 - Relative: Results are compared against other designs where the same test is performed.
 
-There are multiple ways of performing verification, including mathematical analysis, physical inspection, demonstration and testing. [[20, page 92]](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf)
+There are multiple ways of performing verification, including mathematical analysis, physical inspection, demonstration and testing. [[20, page 92]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B)
 
 ### Proxy Testing [ꜛ](#table-of-contents)
 ---
@@ -652,7 +652,7 @@ When resources are limited, it may not be possible to have a fully functional te
 Given sufficient research and justifiable assumptions, a proxy test may be developed in replacement, that is a lower fidelity testing rig used to reproduce what the higher fidelity one aims to achieve with reasonable accuracy. I noticed that many results that came out of my proxy tests can only be compared relative to one another, which may still be useful to approximately determine if a design is better than another.
 
 #### Proxying Users
-Sometimes, it is necessary to proxy the stakeholder, which requires one to be deliberate when choosing an appropriate proxy. For example, it may be disrespectful to simulate a disability [[21]](https://pubmed.ncbi.nlm.nih.gov/28287757/) if one does not have first-hand experience with it. A more appropriate action one can take is to do sufficient research on how the living conditions of the stakeholder could be simulated instead.
+Sometimes, it is necessary to proxy the stakeholder, which requires one to be deliberate when choosing an appropriate proxy. For example, it may be disrespectful to simulate a disability [[21]](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/handbook/#references-%EA%9C%9B) if one does not have first-hand experience with it. A more appropriate action one can take is to do sufficient research on how the living conditions of the stakeholder could be simulated instead.
 
 #### Example
 ![Center of Gravity Tracker](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/handbook/center_of_gravity.png)
