@@ -286,18 +286,22 @@ The following design experiences are listed in order of commencement. They attem
 ---
 \
 ![Praxis I Onepager](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/p1_onepager.png)
+
 <sup><i>Figure 3.</i> Summary of the work done for my Praxis I Design Report. If the image is too blurry or small, a [PDF](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/p1_onepager.pdf) is available.</sup>
 
 ### CIV102 Matboard Bridge Design Project [ꜛ](#table-of-contents)
 ---
 \
 ![CIV102 Onepager](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/civ_onepager.png)
+
 <sup><i>Figure 3.</i> Summary of my CIV102 matboard bridge design project. If the image is too blurry or small, a [PDF](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/civ_onepager.pdf) is available. Relevant bridge project files can be found [here](https://github.com/Togohogo1/civ102-matboard-bridge-design-project). </sup>
 
 ### Praxis II Showcase [ꜛ](#table-of-contents)
 ---
 \
-bruh
+![CIV102 Onepager](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/p2_onepager.png)
+
+<sup><i>Figure 3.</i> Summary of the work done for my Praxis II Showcase. If the image is too blurry or small, a [PDF](https://togohogo1.github.io/Student-Engineer-Portfolio-and-Handbook/assets/portfolio/p2_onepager.pdf) is available. </sup>
 
 ## References [ꜛ](#table-of-contents)
 ---
