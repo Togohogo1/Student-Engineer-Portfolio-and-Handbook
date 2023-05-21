@@ -696,7 +696,7 @@ P. Sheridan, R. Irish, and P. Kinnear, "Finishing Requirements and Making Connec
 [9] K. Wang et al., "Toronto_Tool_Library_Request_for_Proposal_v3", 2023.
 
 [10]
-L. Automare et al., "Request for Proposal Ukrainian Museum of Canada", 2023.
+L. Altomare et al., "Request for Proposal Ukrainian Museum of Canada", 2023.
 
 [11]
 P. Sheridan, R. Irish, and P. Kinnear, "Constraints, Creativity and Diverging", 2022.
